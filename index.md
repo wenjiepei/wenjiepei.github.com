@@ -45,6 +45,5 @@ Gave introductory lecture for the master course Performance Analysis (IN4341), i
 
 ## Contact
 Pattern Recognition Lab, Delft University of Technology  
-Email: wenjiecoder@gmail.com  
-W.Pei-1@tudelft.nl
+Email: wenjiecoder@gmail.com, W.Pei-1@tudelft.nl
 
