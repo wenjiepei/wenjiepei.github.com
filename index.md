@@ -42,7 +42,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
 
 ## Reviewer Experience
--  Neural Information Processing Systems (__NIPS__), 2017; 
+-  Conference on Neural Information Processing Systems (__NIPS__), 2017; 
 - Applied Soft Computing, 2017;
 - IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2016;
 
