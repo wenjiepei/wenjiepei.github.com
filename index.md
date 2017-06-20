@@ -5,16 +5,16 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## Education Background
 * 10/2013 - present: __Delft University of Technology__, the Netherlands.  
-  PhD candidate in Pattern Recognition and Computer Vision Lab.
+  PhD candidate in Pattern Recognition and Computer Vision Lab.  
   Research area: Machine Learning and Computer Vision.
-* 08/2011 - 08/2013: __Eindhoven University of Technology__, the Netherlands.
-  Master of Computer Science and Engineering.
+* 08/2011 - 08/2013: __Eindhoven University of Technology__, the Netherlands.  
+  Master of Computer Science and Engineering.  
   Research area: Data Mining, supervised by [Prof. Toon Calders](http://cs.ulb.ac.be/members/tcalders/doku.php)
 * 09/2008 - 03/2011: __Zhejiang University of Technology__, China.
-  Master of Computer Science and Technology in State Key Lab of CAD&CG.
+  Master of Computer Science and Technology in State Key Lab of CAD&CG.  
   Research area: Computer Graphics and Visualization, supervised by [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)
-* 09/2004 - 06/2008: __Shanghai JiaoTong University__, China.
-  Bachelor of Computer Science and Engineering.
+* 09/2004 - 06/2008: __Shanghai JiaoTong University__, China.  
+  Bachelor of Computer Science and Engineering.  
   Bachelor of Business Administration.
 
 ## Research Interest
