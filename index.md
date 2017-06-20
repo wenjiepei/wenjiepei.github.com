@@ -10,10 +10,11 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 * 09/2008 - 03/2011: Master in Zhejiang University of Technology, China.
 
 ## Research Interest
-- Complex networks
-- Graph spectra
-- Interdependent / multiplex networks
-- Logistic networks
+- Sequence Modelling
+- Time series Modelling
+- Recurrent Neural Networks
+- Attention Model
+- Sequence-related applications, e.g, age estimation from facial videos
 
 ## Publications 
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
