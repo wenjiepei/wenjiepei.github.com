@@ -25,18 +25,12 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - Sequence-related applications, e.g, age estimation from facial videos
 
 ## Publications 
-([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
-### PhD Thesis
-- Xiangrong wang. [Robustness of complex networks: Theory and application](https://repository.tudelft.nl/islandora/object/uuid:c107cc92-d275-45df-ad56-b754e8ead98c/datastream/OBJ/view), 2016.
-
-### Journals
-- Xiangrong Wang, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij. [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675). Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
+- __Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency. [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf). IEEE Conference on Computer Vision and Pattern Recognition __(CVPR)__, 2017.
 - Xiangrong Wang, Robert E Kooij and Piet Van Mieghem. [Modeling region-based interconnection for interdependent networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2016_Regionbased_Interdependency.pdf). Physical Review E, 94(4), 2016. 
 - Xiangrong Wang, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem. [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf). Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 - Xiangrong Wang, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0). The European Physical Journal B, 87(9):221, 2014. 
 
-### Conferences
 - Xiangrong Wang and Piet Van Meighem. [Orthogonal Eigenvector Matrix of the Laplacian](https://www.researchgate.net/profile/Xiangrong_Wang2/publication/287201773_Orthogonal_Eigenvector_Matrix_of_the_Laplacian/links/5672d5d708aedbbb3f9f6dc5.pdf). 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Thailand, 2015.
 - Xiangrong Wang, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad and Robert E Kooij. [Quantifying the robustness of metro networks](https://arxiv.org/pdf/1505.06664.pdf). 6th International Symposium on Transportation Network Reliability, Japan, 2015
 - Xiangrong Wang, Yakup Koc, Robert E. Kooij and Piet Van Mieghem. [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/). Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
