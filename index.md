@@ -53,7 +53,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2016;
 
 ## Awards
-- 2013 - 2017 Funded by EU SALIG++ project;
+- 2013 - 2017 Funded by SALIG++ project, __AAL-Europe__;
 - 2011 - 2013 Talent Scholarship Program (TSP), __TU/e & Philips__;
 - 2008 - 2011 First-grade Scholarship, __ZJU__;
 - 2006 Excellent Scholarship, __SJTU__;
