@@ -44,6 +44,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 Gave introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
 
 ## Contact
-**Dr.Xiangrong Wang**  
-Delft University of Technology  
-Email: X.Wang-2@tudelft.nl
+Pattern Recognition Lab, Delft University of Technology  
+Email: wenjiecoder@gmail.com  
+W.Pei-1@tudelft.nl
+
