@@ -28,6 +28,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - Time series Modelling
 - Recurrent Neural Networks
 - Attention Model
+- Deep Learning
 - Sequence-related applications, e.g, age estimation from facial videos
 
 ## Publications 
