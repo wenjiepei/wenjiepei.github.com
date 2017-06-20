@@ -1,13 +1,12 @@
 # Site wide configuration
 #theme: jekyll-theme-minimal
-title: Xiangrong Wang (王向荣)
+title: Wenjie Pei (裴文杰)
 locale: en_US
-description: Postdoc in Delft University of Technology
+description: PhD candidate in Delft University of Technology
   
 owner:
-  name: Xiangrong Wang
-  bio: "Postdoc in Delft University of Technology."
-  email: x.wang-2@tudelft.nl
-  avatar: xiangrong.jpeg
+  name: Wenjie Pei
+  bio: "PhD candidate in Delft University of Technology."
+  email: wenjiecoder@gmail.com
 
 #theme: jekyll-theme-leap-day
