@@ -26,8 +26,8 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## Publications 
 
-- __Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency. [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf). IEEE Conference on Computer Vision and Pattern Recognition __(CVPR)__, 2017.
-- Xiangrong Wang, Robert E Kooij and Piet Van Mieghem. [Modeling region-based interconnection for interdependent networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2016_Regionbased_Interdependency.pdf). Physical Review E, 94(4), 2016. 
+- __Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency. [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf). IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
+- __Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten. [Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/). IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017. 
 - Xiangrong Wang, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem. [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf). Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 - Xiangrong Wang, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0). The European Physical Journal B, 87(9):221, 2014. 
 
