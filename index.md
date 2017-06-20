@@ -40,8 +40,10 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - Transportation Research Part D: Transport and Environment;  
 - IFIP Networking Conference;  
 
-## Teaching
-Gave introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
+## Experience
+- 07/2016 - 12/2016, Carnegie Mellon University (CMU).  
+  Visiting Scholar in Language Technolgy Institute (LTI).  
+  Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/)
 
 ## Contact
 Pattern Recognition Lab, Delft University of Technology  
