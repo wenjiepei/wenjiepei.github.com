@@ -52,6 +52,13 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - Applied Soft Computing, 2017;
 - IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2016;
 
+## Awards
+- 2013 - 2017 Funded by EU SALIG++ project;
+- 2011 - 2013 Talent Scholarship Program (TSP), __TU/e & Philips__;
+- 2008 - 2011 First-grade Scholarship, __ZJU__;
+- 2006 Excellent Scholarship, __SJTU__;
+- 2004 - 2008 Zhaojianjun Scholarship (only one in my department), __SJTU__;
+
 ## Contact
 Pattern Recognition Lab, Delft University of Technology  
 Email: wenjiecoder@gmail.com, W.Pei-1@tudelft.nl
