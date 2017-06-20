@@ -12,7 +12,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
   Research area: Data Mining, supervised by [Prof. Toon Calders](http://cs.ulb.ac.be/members/tcalders/doku.php).
 * 09/2008 - 03/2011: __Zhejiang University of Technology__, China.  
   Master of Computer Science and Technology in State Key Lab of CAD&CG.  
-  Research area: Computer Graphics and Visualization, supervised by [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml).
+  Research area: Computer Graphics and Visualization, supervised by [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml) and [Prof. Hujun Bao].
 * 09/2004 - 06/2008: __Shanghai JiaoTong University__, China.  
   Bachelor of Computer Science and Engineering.  
  Bachelor of Business Administration.
@@ -32,7 +32,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont. [Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf). Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014. 
 - __Wenjie Pei__. [Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf). Master Thesis in TU/e, 2013.
 - Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao. [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf). IEEE Pacific Visualization Symposium (__PacificVis__), 2012
-- Xiangrong Wang, Yakup Koc, Robert E. Kooij and Piet Van Mieghem. [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/). Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
+- Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao. [Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/). Science China Information Sciences, 54 (6), 1172-1183, 2011.
 
 ## Reviewer Experiences
 - Physica A: Statistical Mechanics and its Applications;  
