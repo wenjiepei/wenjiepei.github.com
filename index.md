@@ -14,7 +14,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
   Master of Computer Science and Technology in State Key Lab of CAD&CG.  
   Research area: Computer Graphics and Visualization, supervised by [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)
 * 09/2004 - 06/2008: __Shanghai JiaoTong University__, China.  
-  Bachelor of Computer Science and Engineering. 
+  Bachelor of Computer Science and Engineering.  
   Bachelor of Business Administration.
 
 ## Research Interest
