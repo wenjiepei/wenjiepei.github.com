@@ -34,16 +34,18 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao. [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf). IEEE Pacific Visualization Symposium (__PacificVis__), 2012
 - Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao. [Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/). Science China Information Sciences 54(6), 1172-1183, 2011.
 
+
+## Research Experience
+- 07/2016 - 12/2016, Carnegie Mellon University (CMU).  
+  Visiting Scholar in Language Technolgy Institute (LTI).  
+  Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
+- 03/2013 - 08/2013, Intern at Philips Research Eindhoven.  
 ## Reviewer Experiences
 - Physica A: Statistical Mechanics and its Applications;  
 - Automatica;  
 - Transportation Research Part D: Transport and Environment;  
 - IFIP Networking Conference;  
 
-## Experience
-- 07/2016 - 12/2016, Carnegie Mellon University (CMU).  
-  Visiting Scholar in Language Technolgy Institute (LTI).  
-  Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/)
 
 ## Contact
 Pattern Recognition Lab, Delft University of Technology  
