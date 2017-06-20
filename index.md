@@ -41,7 +41,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
   Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
 - 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
 
-## Reviewer Experiences
+## Reviewer Experience
 -  Neural Information Processing Systems (__NIPS__), 2017; 
 - Applied Soft Computing, 2017;
 - IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2016;
