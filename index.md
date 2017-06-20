@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="right" width='150' src="wenjie.jpeg">
+<img align="right" width='150' src="wenjie2.png">
 Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision Lab, Delft University of Technology. He works with [Prof. David Tax](http://prlab.tudelft.nl/users/david-tax) and [Prof. Laurens van der Maaten](https://lvdmaaten.github.io/). His research focuses on the sequence (time series) modelling, including sequence (time series) classification, sequence similarity embedding learning and sequence related applications. 
 
 ## News
