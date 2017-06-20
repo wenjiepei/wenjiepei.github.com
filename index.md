@@ -1,7 +1,7 @@
 ## About Me
 
 <img align="right" width='150' src="xiangrong.jpeg">
-Xiangrong Wang is currently a PhD student in Pattern Recognition and Computer Vision Lab, Delft University of Technology. He works with [Prof. David Tax](http://prlab.tudelft.nl/users/david-tax) and [Prof. Laurens van der Maaten](https://lvdmaaten.github.io/).
+Wenjie Pei is currently a PhD student in Pattern Recognition and Computer Vision Lab, Delft University of Technology. He works with [Prof. David Tax](http://prlab.tudelft.nl/users/david-tax) and [Prof. Laurens van der Maaten](https://lvdmaaten.github.io/).
 Her PhD topic focused on the robustness of networks,  from both theoretical and applicable perspectives. Since March of 2017, she is a postdoctoral researcher in the department of applied mathematics at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/).  Her current research project is the robustness of logistic networks. 
 
 ## News
