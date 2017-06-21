@@ -48,7 +48,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
       __arXiv__, 2016.  
       
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="200" src="publication/SRN.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
+- <img align="left" width="200" src="publication/topk.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
 [Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
 Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
 
