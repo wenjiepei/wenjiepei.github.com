@@ -65,7 +65,7 @@ IEEE Pacific Visualization Symposium (__PacificVis__), 2012
 [Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/).  
 Science China Information Sciences 54(6), 1172-1183, 2011.  
 
-
+------------------------------------------------------------------------------------------------------------------------------
 ## Research Experience
 - 07/2016 - 12/2016, __Carnegie Mellon University__.  
   Visiting Scholar in Language Technolgy Institute (LTI).  
