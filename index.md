@@ -23,6 +23,12 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
   Bachelor of Computer Science and Engineering.  
  Bachelor of Business Administration.
 
+## Research Experience
+- 07/2016 - 12/2016, __Carnegie Mellon University__.  
+  Visiting Scholar in Language Technolgy Institute (LTI).  
+  Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
+- 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
+
 ## Research Interest
 - Sequence Modelling
 - Time series Modelling
@@ -67,11 +73,7 @@ Science China Information Sciences 54(6), 1172-1183, 2011.
    
   
 ------------------------------------------------------------------------------------------------------------------------------
-## Research Experience
-- 07/2016 - 12/2016, __Carnegie Mellon University__.  
-  Visiting Scholar in Language Technolgy Institute (LTI).  
-  Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
-- 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
+
 
 ## Reviewer Experience
 -  Conference on Neural Information Processing Systems (__NIPS__), 2017; 
