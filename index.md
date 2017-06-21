@@ -5,7 +5,6 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## News
 * 07/2017, I will participate in Doctoral Consortium in IEEE CVPR.
-* 05/2017, one paper was submitted to CIKM, 2017.
 * 03/2017, one paper was accepted by CVPR, 2017.
 * 01/2017, one paper was accepted by TNNLS.
 
