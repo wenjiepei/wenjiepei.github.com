@@ -59,7 +59,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
 Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="200" src="publication/OSA.png">__Wenjie Pei__.  
+- <img align="left" width="160" src="publication/OSA.png">__Wenjie Pei__.  
 [Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
 Master Thesis in TU/e, 2013.
 
