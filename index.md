@@ -64,7 +64,8 @@ IEEE Pacific Visualization Symposium (__PacificVis__), 2012
 - <img align="left" width="155" src="publication/triangulation.png">Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
 [Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/).  
 Science China Information Sciences 54(6), 1172-1183, 2011.  
-
+  
+  
 ------------------------------------------------------------------------------------------------------------------------------
 ## Research Experience
 - 07/2016 - 12/2016, __Carnegie Mellon University__.  
