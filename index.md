@@ -33,8 +33,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## Publications 
 
-- <img align="left" width="150" src="publication/TAGM.png">
-__Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency.  
+- <img align="left" width="150" src="publication/TAGM.png">__Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency.  
 [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).   
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
 - __Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten. [Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/). IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017. 
