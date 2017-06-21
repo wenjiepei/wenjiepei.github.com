@@ -49,9 +49,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
         IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017.   
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="140" src="publication/SRN.png">|__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
-|[Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
-                                                           |__arXiv__, 2016.  
+- <img align="left" width="140" src="publication/SRN.png">__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
+[Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
+                                                           __arXiv__, 2016.  
       
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="140" src="publication/topk.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
