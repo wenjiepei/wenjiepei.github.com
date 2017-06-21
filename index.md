@@ -48,7 +48,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
       __arXiv__, 2016.  
       
 ------------------------------------------------------------------------------------------------------------------------------
-- Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont. [Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf). Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014. 
+- <img align="left" width="200" src="publication/SRN.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
+[Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
+Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
+
+------------------------------------------------------------------------------------------------------------------------------
 - __Wenjie Pei__. [Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf). Master Thesis in TU/e, 2013.
 - Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao. [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf). IEEE Pacific Visualization Symposium (__PacificVis__), 2012
 - Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao. [Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/). Science China Information Sciences 54(6), 1172-1183, 2011.
