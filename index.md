@@ -17,7 +17,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
   Research area: Data Mining, supervised by [Prof. Toon Calders](http://cs.ulb.ac.be/members/tcalders/doku.php).
 * 09/2008 - 03/2011: __ZheJiang University (ZJU)__, China.  
   Master of Computer Science and Technology in State Key Lab of CAD&CG.  
-  Research area: Computer Graphics and Visualization, supervised by [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml) and [Prof. Hujun Bao].
+  Research area: Computer Graphics and Visualization, supervised by [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml) and [Prof. Hujun Bao](http://www.cad.zju.edu.cn/home/bao/).
 * 09/2004 - 06/2008: __Shanghai JiaoTong University (SJTU)__, China.  
   Bachelor of Computer Science and Engineering.  
  Bachelor of Business Administration.
