@@ -11,7 +11,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 ## Education Background
 * 10/2013 - 10/2017(expected): __Delft University of Technology (TU Delft)__, the Netherlands.  
   PhD candidate in Pattern Recognition and Computer Vision Lab.  
-  Research area: Machine Learning and Computer Vision, supervised by [Prof. David Tax](http://prlab.tudelft.nl/users/david-tax) and [Prof. Laurens van der Maaten](https://lvdmaaten.github.io/).
+  Research area: Machine Learning and Computer Vision, supervised by [Prof. David Tax](http://prlab.tudelft.nl/users/david-tax) and [Dr. Laurens van der Maaten](https://lvdmaaten.github.io/).
 * 08/2011 - 08/2013: __Eindhoven University of Technology (TU/e)__, the Netherlands.  
   Master of Computer Science and Engineering.  
   Research area: Data Mining, supervised by [Prof. Toon Calders](http://cs.ulb.ac.be/members/tcalders/doku.php).
