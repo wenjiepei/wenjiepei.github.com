@@ -96,4 +96,4 @@ Pattern Recognition Lab, Delft University of Technology
 Email: wenjiecoder@gmail.com, W.Pei-1@tudelft.nl
 
 
-<a href="http://s05.flagcounter.com/more/eoF"><img src="http://s05.flagcounter.com/map/eoF/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="http://s05.flagcounter.com/more/eoF"><img align="middle" src="http://s05.flagcounter.com/map/eoF/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
