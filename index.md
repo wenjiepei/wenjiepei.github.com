@@ -95,5 +95,4 @@ I was responsible for the activity recognition.
 Pattern Recognition Lab, Delft University of Technology  
 Email: wenjiecoder@gmail.com, W.Pei-1@tudelft.nl
 
-
-<a href="http://info.flagcounter.com/erJl"><img src="http://s10.flagcounter.com/map/erJl/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="http://info.flagcounter.com/erJl"><img src="http://s10.flagcounter.com/map/erJl/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Free counters!" border="0"></a>
