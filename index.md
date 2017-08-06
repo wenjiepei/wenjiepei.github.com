@@ -8,7 +8,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## News
 * 08/2017, one paper was accepted by __CIKM__, 2017.
-* 07/2017, I will participate in __Doctoral Consortium in CVPR 2017__, mentored by [Kaiming He](http://kaiminghe.com/).
+* 07/2017, I will participate in __Doctoral Consortium in CVPR 2017__, mentored by [Dr. Kaiming He](http://kaiminghe.com/).
 * 03/2017, one paper was accepted by __CVPR__, 2017.
 * 01/2017, one paper was accepted by __TNNLS__.
 
@@ -63,7 +63,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
 - <img align="left" width="300" src="publication/topk.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
 [Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
 Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
-<br><br>
+<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/OSA.png">__Wenjie Pei__.  
