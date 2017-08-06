@@ -57,16 +57,16 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
 - <img align="left" width="300" src="publication/SRN.png">__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
 [Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
                                                            __arXiv__, 2016.  
-<br><br><br>
+<br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/topk.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
 [Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
 Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
-<br><br><br>
+<br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/OSA.png">__Wenjie Pei__.  
+- <img align="left" width="250" src="publication/OSA.png">__Wenjie Pei__.  
 [Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
 Master Thesis in TU/e, 2013.
 <br><br><br><br>
