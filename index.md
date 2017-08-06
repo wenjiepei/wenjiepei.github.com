@@ -74,7 +74,7 @@ Master Thesis in TU/e, 2013.
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/lic.png">Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
 [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
-IEEE Pacific Visualization Symposium (__PacificVis__), 2012
+IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
