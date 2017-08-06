@@ -76,7 +76,7 @@ Master Thesis in TU/e, 2013.
 [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
 IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
 <br><br><br><br>
-&nbsp
+&nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/triangulation.png">Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
