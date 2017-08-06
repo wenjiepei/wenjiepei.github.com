@@ -8,7 +8,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## News
 * 08/2017, one paper was accepted by __CIKM__, 2017.
-* 07/2017, I will participate in __Doctoral Consortium in CVPR 2017__, mentored by Kaiming, He.
+* 07/2017, I will participate in __Doctoral Consortium in CVPR 2017__, mentored by [Kaiming He](http://kaiminghe.com/).
 * 03/2017, one paper was accepted by __CVPR__, 2017.
 * 01/2017, one paper was accepted by __TNNLS__.
 
@@ -76,6 +76,7 @@ Master Thesis in TU/e, 2013.
 [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
 IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
 <br><br><br>
+&nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/triangulation.png">Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
