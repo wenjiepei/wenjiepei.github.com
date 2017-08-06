@@ -66,16 +66,17 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 <br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="250" src="publication/OSA.png">__Wenjie Pei__.  
+- <img align="left" width="300" src="publication/OSA.png">__Wenjie Pei__.  
 [Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
 Master Thesis in TU/e, 2013.
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/lic.png">Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
 [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
 IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
-<br><br><br><br><br>
+<br><br><br><br>
+&nbsp
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/triangulation.png">Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
