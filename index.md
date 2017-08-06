@@ -7,10 +7,10 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 
 ## News
-* 08/2017, one paper was accepted by CIKM, 2017.
-* 07/2017, I will participate in Doctoral Consortium in IEEE CVPR, 2017.
-* 03/2017, one paper was accepted by CVPR, 2017.
-* 01/2017, one paper was accepted by TNNLS.
+* 08/2017, one paper was accepted by __CIKM__, 2017.
+* 07/2017, I will participate in __Doctoral Consortium in CVPR 2017__, mentored by Kaiming, He.
+* 03/2017, one paper was accepted by __CVPR__, 2017.
+* 01/2017, one paper was accepted by __TNNLS__.
 
 ## Education Background
 * 10/2013 - 10/2017(expected): __Delft University of Technology (TU Delft)__, the Netherlands.  
@@ -42,7 +42,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## Publications 
 
-- <img align="left" width="170" src="publication/TAGM.png">__Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency.  
+- <img align="left" width="300" src="publication/TAGM.png">__Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency.  
 [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
   
