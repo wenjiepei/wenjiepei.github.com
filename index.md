@@ -43,14 +43,14 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## Publications 
 
-- __Wenjie Pei\*__, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David MJ Tax (\*both authors contributed equally).  
+- <img align="left" width="300" src="publication/attention_recsys.png"> __Wenjie Pei\*__, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David MJ Tax (\*both authors contributed equally).  
 [Interacting Attention-gated Recurrent Networks for Recommendation]().  
 The 26th ACM International Conference on Information and Knowledge Management (__CIKM__), 2017.  
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/TAGM.png">__Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency.  
+- <img align="left" width="300" src="publication/TAGM.png"> __Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency.  
 [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
 <br><br><br>
