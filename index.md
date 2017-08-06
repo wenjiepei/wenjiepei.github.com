@@ -45,8 +45,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - <img align="left" width="300" src="publication/TAGM.png">__Wenjie Pei__, Tadas Baltrušaitis, David MJ Tax and Louis-Philippe Morency.  
 [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
-&nbsp;
-&nbsp;
+<br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="140" src="publication/HULM.png">__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
