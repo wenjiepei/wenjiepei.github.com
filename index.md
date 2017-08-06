@@ -47,7 +47,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
 \
-\
+
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="140" src="publication/HULM.png">__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
         [Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/).  
