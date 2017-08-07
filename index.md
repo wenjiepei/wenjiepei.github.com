@@ -46,7 +46,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - <img align="left" width="300" src="publication/IARN.png"> __Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both authors contributed equally).  
 [Interacting Attention-gated Recurrent Networks for Recommendation](publication/IARN.pdf).  
 ACM International Conference on Information and Knowledge Management (__CIKM__), 2017.  
-<br><br>
+<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -77,7 +77,8 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 - <img align="left" width="300" src="publication/OSA.png">__Wenjie Pei__.  
 [Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
 Master Thesis in TU/e, 2013.
-<br><br><br><br><br><br>
+<br><br><br><br><br>
+&nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/lic.png">Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
