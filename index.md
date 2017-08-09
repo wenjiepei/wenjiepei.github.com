@@ -89,6 +89,7 @@ Master Thesis in TU/e, 2013.
 IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
 [\[video\]](/publication/CLIC.avi) 
 <br><br><br>  
+&nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/triangulation.png">Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
