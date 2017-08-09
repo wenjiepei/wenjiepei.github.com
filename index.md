@@ -53,6 +53,7 @@ ACM International Conference on Information and Knowledge Management (__CIKM__),
 - <img align="left" width="300" src="publication/TAGM.png"> __Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
 [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
+[\[code\]](https://github.com/wenjiepei/TAGM)
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
