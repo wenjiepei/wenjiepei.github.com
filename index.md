@@ -68,7 +68,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
 [Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
                                                            __arXiv__, 2016.  
 [\[High-resolution (12K * 9K) signatures distribution map clustered by our model\]](/publication/MCYT_full.png)                                                            
-<br><br>
+<br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/topk.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
