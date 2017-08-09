@@ -60,7 +60,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.
 - <img align="left" width="300" src="publication/HULM.png">__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
         [Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/).  
         IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017.   
-<br><br><br><br>
+[\[code\]](https://github.com/wenjiepei/HULM)        
+<br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/SRN.png">__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
