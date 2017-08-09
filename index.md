@@ -112,7 +112,7 @@ Science China Information Sciences 54(6), 1172-1183, 2011.
 I was responsible for the activity recognition.
 
 ## Contact
-Pattern Recognition Lab, Delft University of Technology  
+Pattern Recognition and Computer Vision Lab, Delft University of Technology  
 Email: wenjiecoder@gmail.com, W.Pei-1@tudelft.nl  
 Skype: peiwenjie_1986
 
