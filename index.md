@@ -53,14 +53,14 @@ ACM International Conference on Information and Knowledge Management (__CIKM__),
 - <img align="left" width="300" src="publication/TAGM.png"> __Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
 [Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
-[\[code\]](https://github.com/wenjiepei/TAGM) [\[video\]](/publication/TAGM_final.mp4)
+[\[Code\]](https://github.com/wenjiepei/TAGM) [\[Video\]](/publication/TAGM_final.mp4)
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/HULM.png">__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
         [Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/).  
         IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017.   
-[\[code\]](https://github.com/wenjiepei/HULM)        
+[\[Code\]](https://github.com/wenjiepei/HULM)        
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -87,7 +87,7 @@ Master Thesis in TU/e, 2013.
 - <img align="left" width="300" src="publication/lic.png">Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
 [Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
 IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
-[\[video\]](/publication/CLIC.avi)  
+[\[Video\]](/publication/CLIC.avi)  
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
