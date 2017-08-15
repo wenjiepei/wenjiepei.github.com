@@ -80,7 +80,7 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 - <img align="left" width="300" src="publication/OSA.png">__Wenjie Pei__.  
 [Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
 Master Thesis in TU/e, 2013.
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/lic.png">Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
