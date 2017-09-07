@@ -45,7 +45,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 - <img align="left" width="300" src="publication/IARN.png">
 __Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both authors contributed equally).  
-[Interacting Attention-gated Recurrent Networks for Recommendation]().  
+[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
 ACM International Conference on Information and Knowledge Management (__CIKM__), 2017.  
 <br>
 
