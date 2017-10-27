@@ -7,7 +7,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 
 ## News
-* 08/2017, one paper was accepted by __CIKM__, 2017.
+* 08/2017, one full paper was accepted by __CIKM__, 2017.
 * 07/2017, I participated in __Doctoral Consortium in CVPR 2017__, mentored by [Dr. Kaiming He](http://kaiminghe.com/).
 * 03/2017, one paper was accepted by __CVPR__, 2017.
 * 01/2017, one paper was accepted by __TNNLS__.
@@ -46,7 +46,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - <img align="left" width="300" src="publication/IARN.png">
 __Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both authors contributed equally).  
 [Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
-ACM International Conference on Information and Knowledge Management (__CIKM__), 2017.  
+ACM International Conference on Information and Knowledge Management (__CIKM__), full paper, 2017.  
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
