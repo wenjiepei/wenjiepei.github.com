@@ -44,7 +44,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 ## Publications 
 
 - <img align="left" width="300" src="publication/age_estimation.png">__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
-[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/pdf/1711.08690.pdf).  
+[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
 IEEE Transactions on Image Processing (__TIP__), submitted, 2017.  
 <br>
 
