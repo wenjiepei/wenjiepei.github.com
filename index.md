@@ -109,11 +109,9 @@ Science China Information Sciences 54(6), 1172-1183, 2011.
 
 
 ## Reviewer Experience
-- __ICML__, 2018;
-- __ICRP__, 2018;
--  Conference on Neural Information Processing Systems (__NIPS__), 2017; 
-- Applied Soft Computing, 2017;
-- IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2016;
+- 2018: __ICML__, __ICPR__;
+- 2017: __NIPS__, Applied Soft Computing;
+- 2016: IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__);
 
 ## Awards
 - 2011 - 2013: Talent Scholarship Program (TSP), __TU/e & Philips__;
