@@ -48,6 +48,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 [Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
 __arXiv__, 2018.
 <br><br><br><br><br>
+&nbsp;
 
 ----------------------------------------------------------------------------------------------------------------------------
 
