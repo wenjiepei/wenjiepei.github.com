@@ -44,6 +44,11 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## Publications 
 
+- <img align="left" width="300" src="publication/ISA.png">__Wenjie Pei__ and David M.J. Tax.  
+[Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
+__arXiv__, 2018.
+<br>
+
 - <img align="left" width="300" src="publication/age_estimation.png">__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
 [Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
 IEEE Transactions on Image Processing (__TIP__), submitted, 2017.  
