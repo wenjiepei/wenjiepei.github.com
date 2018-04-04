@@ -50,7 +50,7 @@ __arXiv__, 2018.
 <br><br><br><br><br>
 
 ----------------------------------------------------------------------------------------------------------------------------
---
+
 
 - <img align="left" width="300" src="publication/age_estimation.png">__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
 [Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
