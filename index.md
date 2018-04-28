@@ -44,8 +44,8 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ## Publications 
 
-- <img align="left" width="300" src="publication/ISA.png">  __Wenjie Pei__ and David M.J. Tax.  
-[Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
+- <img align="left" width="300" src="publication/ISA.png"> __Wenjie Pei__ and David M.J. Tax.  
+  [Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
 __arXiv__, 2018.  
 Pattern Recognition (__PR__), 2018, submitted.
 <br><br><br><br>
