@@ -83,7 +83,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
--<img align="left" width="300" src="publication/SRN.png">&emsp;__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
+- <img align="left" width="300" src="publication/SRN.png">&emsp;__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
 &emsp;[Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
 &emsp;__arXiv__, 2016.  
 &emsp;[\[High-resolution (12K * 9K) signatures distribution map clustered by our model\]](/publication/MCYT_full.png)   
