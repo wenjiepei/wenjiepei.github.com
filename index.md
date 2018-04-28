@@ -69,25 +69,24 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/TAGM.png">
-&emsp;__Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
+- <img align="left" width="300" src="publication/TAGM.png">&emsp;__Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
 &emsp;[Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
 &emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
 &emsp;[\[Code\]](https://github.com/wenjiepei/TAGM) [\[Video\]](/publication/TAGM_final.mp4)
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/HULM.png">__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
-        [Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/).  
-        IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017.   
-[\[Code\]](https://github.com/wenjiepei/HULM)        
+- <img align="left" width="300" src="publication/HULM.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
+&emsp;[Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/).  
+&emsp;IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017.   
+&emsp;[\[Code\]](https://github.com/wenjiepei/HULM)        
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/SRN.png">__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
-[Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
-                                                           __arXiv__, 2016.  
-[\[High-resolution (12K * 9K) signatures distribution map clustered by our model\]](/publication/MCYT_full.png)                                                            
+-<img align="left" width="300" src="publication/SRN.png">&emsp;__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
+&emsp;[Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
+&emsp;__arXiv__, 2016.  
+&emsp;[\[High-resolution (12K * 9K) signatures distribution map clustered by our model\]](/publication/MCYT_full.png)                                                            
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
