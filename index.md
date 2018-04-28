@@ -61,7 +61,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both authors contributed equally).  
+- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both &emsp;authors contributed equally).  
 &emsp;[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
 &emsp;ACM International Conference on Information and Knowledge Management (__CIKM__), __full__ paper, 2017.  
 &emsp;[\[Code\]](https://github.com/wenjiepei/IARN)
@@ -110,7 +110,7 @@ IEEE Pacific Visualization Symposium (__PacificVis__), 2012
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/triangulation.png">$$Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
+- <img align="left" width="300" src="publication/triangulation.png">Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
 [Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/).  
 Science China Information Sciences 54(6), 1172-1183, 2011.  
 <br><br><br><br>   
