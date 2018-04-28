@@ -54,18 +54,17 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-- <img align="left" width="300" src="publication/age_estimation.png">
-&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
+- <img align="left" width="300" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
 &emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2017, submitted.  
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/IARN2.png">__Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both authors contributed equally).  
-[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
-ACM International Conference on Information and Knowledge Management (__CIKM__), __full__ paper, 2017.  
-[\[Code\]](https://github.com/wenjiepei/IARN)
+- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both authors contributed equally).  
+&emsp;[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
+&emsp;ACM International Conference on Information and Knowledge Management (__CIKM__), __full__ paper, 2017.  
+&emsp;[\[Code\]](https://github.com/wenjiepei/IARN)
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
