@@ -92,29 +92,29 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/topk.png">Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
-[Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
-Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
+- <img align="left" width="300" src="publication/topk.png">&emsp;Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
+&emsp;[Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
+&emsp;Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/OSA.png">__Wenjie Pei__.  
-[Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
-Master Thesis in TU/e, 2013.
+- <img align="left" width="300" src="publication/OSA.png">&emsp;__Wenjie Pei__.  
+&emsp;[Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
+&emsp;Master Thesis in TU/e, 2013.
 <br><br><br><br><br>
 &nbsp;  
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/lic.png">Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
-[Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
-IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
+- <img align="left" width="300" src="publication/lic.png">&emsp;Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
+&emsp;[Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
+&emsp;IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
 [\[Video\]](/publication/CLIC.avi)  
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/triangulation.png">Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
-[Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/).  
-Science China Information Sciences 54(6), 1172-1183, 2011.  
+- <img align="left" width="300" src="publication/triangulation.png">&emsp;Jin Huang, MuYang Zhang, __WenJie Pei__, Wei Hua and HuJun Bao.  
+&emsp;[Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/).  
+&emsp;Science China Information Sciences 54(6), 1172-1183, 2011.  
 <br><br><br><br>   
   
 ------------------------------------------------------------------------------------------------------------------------------
