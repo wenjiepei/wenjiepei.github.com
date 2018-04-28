@@ -108,7 +108,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - <img align="left" width="300" src="publication/lic.png">&emsp;Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
 &emsp;[Output-coherent image-space lic for surface flow visualization](https://pdfs.semanticscholar.org/9c0a/d0b7cfa4cbd6d3341e5f8fcc2bfe991b6393.pdf).  
 &emsp;IEEE Pacific Visualization Symposium (__PacificVis__), 2012  
-[\[Video\]](/publication/CLIC.avi)  
+&emsp;[\[Video\]](/publication/CLIC.avi)  
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
