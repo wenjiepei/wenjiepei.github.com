@@ -54,9 +54,10 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-- <img align="left" width="300" src="publication/age_estimation.png">__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
-[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
-IEEE Transactions on Image Processing (__TIP__), 2017, submitted.  
+- <img align="left" width="300" src="publication/age_estimation.png">
+&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
+&emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2017, submitted.  
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -69,10 +70,11 @@ ACM International Conference on Information and Knowledge Management (__CIKM__),
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/TAGM.png">__Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
-[Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
-IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
-[\[Code\]](https://github.com/wenjiepei/TAGM) [\[Video\]](/publication/TAGM_final.mp4)
+- <img align="left" width="300" src="publication/TAGM.png">
+&emsp;__Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
+&emsp;[Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
+&emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
+&emsp;[\[Code\]](https://github.com/wenjiepei/TAGM) [\[Video\]](/publication/TAGM_final.mp4)
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
