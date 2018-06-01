@@ -41,6 +41,7 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 - Sequence-related applications, e.g, age estimation from facial videos
 - Object Detection
 - Person Re-Identification
+- Hashing for Image Retrival
 
 ## Publications 
 
