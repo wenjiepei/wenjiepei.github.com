@@ -46,8 +46,8 @@ Wenjie Pei is currently a PhD student at Pattern Recognition and Computer Vision
 ## Publications 
 
 - PhD Thesis  
-__Wenjie Pei__.  
-[Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).  
+__Wenjie Pei__.
+[Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 
 ------------------------------------------------------------------------------------------------------------------------------ 
