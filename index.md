@@ -7,7 +7,7 @@ Wenjie Pei got his Ph.D. at Pattern Recognition and Computer Vision Lab, Delft U
 
 
 ## News
-* 06/2018, I successfully defended my Ph.D. Thesis and now becomes Dr.!
+* 06/2018, I successfully defended my Ph.D. Thesis and became Dr.!
 * 08/2017, one full paper was accepted by __CIKM__, 2017.
 * 07/2017, I participated in __Doctoral Consortium in CVPR 2017__, mentored by [Dr. Kaiming He](http://kaiminghe.com/).
 * 03/2017, one paper was accepted by __CVPR__, 2017.
