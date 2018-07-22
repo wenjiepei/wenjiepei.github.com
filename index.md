@@ -130,7 +130,7 @@ Delft University of Technology, 2018.
 
 
 ## Reviewer Experience
-- 2018: __ICML__, __ICPR__;
+- 2018: __ICML__, __ICPR__, __NIPS__, __Pattern Recognition__;
 - 2017: __NIPS__, Applied Soft Computing;
 - 2016: IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__);
 
