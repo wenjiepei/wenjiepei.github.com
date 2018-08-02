@@ -7,6 +7,7 @@ Wenjie Pei is currently a senior researcher in Tencent Youtu X-Lab. He got his P
 
 
 ## News
+* 07/2018, I joined Tencent Youtu X-Lab.
 * 06/2018, I successfully defended my Ph.D. Thesis and became Dr.!
 * 08/2017, one full paper was accepted by __CIKM__, 2017.
 * 07/2017, I participated in __Doctoral Consortium in CVPR 2017__, mentored by [Dr. Kaiming He](http://kaiminghe.com/).
