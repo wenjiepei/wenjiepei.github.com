@@ -9,6 +9,7 @@ He got his Ph.D. at Pattern Recognition and Computer Vision Lab, Delft Universit
 
 
 ## News
+# 03/2019, one paper was accepted by __CVPR__, 2019.
 * 07/2018, I joined Tencent Youtu X-Lab.
 * 06/2018, I successfully defended my Ph.D. Thesis and became Dr.!
 * 08/2017, one full paper was accepted by __CIKM__, 2017.
