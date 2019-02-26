@@ -58,7 +58,7 @@ Delft University of Technology, 2018.
 ---------------------------------------------------------------------------------------------------------------------------- 
 
 - <img align="left" width="300" src="publication/MARN.png">&emsp;__Wenjie Pei__, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen and Yuwing Dai.  
-&emsp;[Memory-Attended Recurrent Network for Video Captioning].  
+&emsp;[Memory-Attended Recurrent Network for Video Captioning]().  
 &emsp;__CVPR__, 2019.  
 <br><br><br><br>
 &nbsp;
