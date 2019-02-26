@@ -63,7 +63,6 @@ Delft University of Technology, 2018.
 <br><br><br><br>
 &nbsp;
 
-
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="300" src="publication/ISA.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
