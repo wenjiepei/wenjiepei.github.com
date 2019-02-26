@@ -55,6 +55,16 @@ __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 
+---------------------------------------------------------------------------------------------------------------------------- 
+
+- <img align="left" width="300" src="publication/MARN.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
+&emsp;[Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
+&emsp;__arXiv__, 2018.  
+&emsp;Pattern Recognition (__PR__), 2018, submitted.
+<br><br><br><br>
+&nbsp;
+
+
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="300" src="publication/ISA.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
