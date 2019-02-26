@@ -68,7 +68,6 @@ Delft University of Technology, 2018.
 - <img align="left" width="300" src="publication/ISA.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
 &emsp;[Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
 &emsp;__arXiv__, 2018.  
-&emsp;Pattern Recognition (__PR__), 2018, submitted.
 <br><br><br><br>
 &nbsp;
 
