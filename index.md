@@ -57,10 +57,9 @@ Delft University of Technology, 2018.
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 
-- <img align="left" width="300" src="publication/MARN.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
-&emsp;[Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
-&emsp;__arXiv__, 2018.  
-&emsp;Pattern Recognition (__PR__), 2018, submitted.
+- <img align="left" width="300" src="publication/MARN.png">&emsp;__Wenjie Pei__, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen and Yuwing Dai.  
+&emsp;[Memory-Attended Recurrent Network for Video Captioning].  
+&emsp;__CVPR__, 2019.  
 <br><br><br><br>
 &nbsp;
 
