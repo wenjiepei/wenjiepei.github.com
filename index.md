@@ -57,7 +57,8 @@ __Wenjie Pei__.
 Delft University of Technology, 2018.  
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/MARN.png">&emsp;Yunqiang Li\*, __Wenjie Pei__\*, Yufei Zha and Jan van Gemert.  
+- <img align="left" width="300" src="publication/MARN.png">&emsp;Yunqiang Li\*, __Wenjie Pei__\*, Yufei Zha and Jan van Gemert (\*both  
+&emsp;authors contributed equally).  
 &emsp;[Push for Quantization: Deep Fisher Hashing].  
 &emsp;British Machine Vision Conference (__BMVC (oral)__), 2019.  
 <br><br>
