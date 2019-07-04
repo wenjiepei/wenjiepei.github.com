@@ -57,7 +57,13 @@ __Wenjie Pei__.
 Delft University of Technology, 2018.  
 
 ---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="300" src="publication/MARN.png">&emsp;Yunqiang Li\*, __Wenjie Pei__\*, Yufei Zha and Jan van Gemert.  
+&emsp;[Push for Quantization: Deep Fisher Hashing].  
+&emsp;British Machine Vision Conference (__BMVC (oral)__), 2019.  
+<br><br>
+&nbsp;
 
+----------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/MARN.png">&emsp;__Wenjie Pei__, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
 &emsp;[Memory-Attended Recurrent Network for Video Captioning](https://arxiv.org/abs/1905.03966).  
 &emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.  
