@@ -62,14 +62,14 @@ Delft University of Technology, 2018.
 - <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed 
 &emsp;equally).  
 &emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling]().  
-&emsp;British Machine Vision Conference (__ICCV <span style="color:blue">Oral</span>, (4.3% acceptance rate)__), 2019.  
+&emsp;__ICCV__ <span style="color:blue">Oral</span>, (4.3% acceptance rate), 2019.  
 <br><br>
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai.  
 &emsp;[Reflective Decoding Network for Image Captioning]().  
-&emsp;British Machine Vision Conference (__ICCV__), 2019.  
+&emsp;__ICCV__, 2019.  
 <br><br>
 &nbsp;
 
