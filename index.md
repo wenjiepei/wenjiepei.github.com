@@ -62,7 +62,7 @@ Delft University of Technology, 2018.
 - <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed 
 &emsp;equally).  
 &emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling]().  
-&emsp;British Machine Vision Conference (__ICCV (oral, 4.3% acceptance rate)__), 2019.  
+&emsp;British Machine Vision Conference (__ICCV oral, (4.3% acceptance rate)__), 2019.  
 <br><br>
 &nbsp;
 
@@ -77,7 +77,7 @@ Delft University of Technology, 2018.
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;Yunqiang Li\*, __Wenjie Pei__\*, Yufei Zha and Jan van Gemert (\*both authors contributed 
 &emsp;equally).  
 &emsp;[Push for Quantization: Deep Fisher Hashing]().  
-&emsp;British Machine Vision Conference (__BMVC (oral, 4.7% acceptance rate)__), 2019.  
+&emsp;British Machine Vision Conference (__BMVC oral, (4.7% acceptance rate)__), 2019.  
 <br><br>
 &nbsp;
 
