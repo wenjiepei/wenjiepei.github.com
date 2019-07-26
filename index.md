@@ -40,6 +40,7 @@ He got his Ph.D. at Pattern Recognition and Computer Vision Lab, Delft Universit
 - 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
 
 ## Research Interest
+- video/image captioning
 - Sequence Modelling
 - Time series Modelling
 - Recurrent Neural Networks
@@ -56,6 +57,14 @@ He got his Ph.D. at Pattern Recognition and Computer Vision Lab, Delft Universit
 __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
+
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;Miao Can\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed 
+&emsp;equally).  
+&emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling]().  
+&emsp;British Machine Vision Conference (__ICCV (oral)__), 2019.  
+<br><br>
+&nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;Yunqiang Li\*, __Wenjie Pei__\*, Yufei Zha and Jan van Gemert (\*both authors contributed 
