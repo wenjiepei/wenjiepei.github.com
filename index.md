@@ -59,8 +59,7 @@ __Wenjie Pei__.
 Delft University of Technology, 2018.  
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed 
-&emsp;equally).  
+- <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed equally).  
 &emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling]().  
 &emsp;__ICCV__ <span style="color:red">Oral</span>, (4.3% acceptance rate), 2019.  
 <br><br>
