@@ -59,10 +59,17 @@ __Wenjie Pei__.
 Delft University of Technology, 2018.  
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/bmvc.png">&emsp;Miao Can\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;Canmiao Fu\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed 
 &emsp;equally).  
 &emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling]().  
 &emsp;British Machine Vision Conference (__ICCV (oral)__), 2019.  
+<br><br>
+&nbsp;
+
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai.  
+&emsp;[Reflective Decoding Network for Image Captioning]().  
+&emsp;British Machine Vision Conference (__ICCV__), 2019.  
 <br><br>
 &nbsp;
 
