@@ -78,7 +78,6 @@ Delft University of Technology, 2018.
 &emsp;equally).  
 &emsp;[Push for Quantization: Deep Fisher Hashing]().  
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
-<br>
 &nbsp;
 
 ----------------------------------------------------------------------------------------------------------------------------
