@@ -99,7 +99,7 @@ Delft University of Technology, 2018.
 
 - <img align="left" width="300" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
 &emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
-&emsp;IEEE Transactions on Image Processing (__TIP__), 2017, submitted.  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2017, minor revision.  
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
