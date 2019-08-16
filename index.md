@@ -81,7 +81,7 @@ Delft University of Technology, 2018.
 
 ----------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/MARN.png">&emsp;__Wenjie Pei__, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
-&emsp;[Memory-Attended Recurrent Network for Video Captioning](https://arxiv.org/abs/1905.03966).  
+&emsp;[Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.pdf).  
 &emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.  
 <br><br>
 &nbsp;
