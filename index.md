@@ -58,6 +58,7 @@ __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 <br><br>
+
 ------------------------------------------------------------------------------------------------------------------------------ 
 - <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai\*. (\* Joint corresponding authors.)  
 &emsp;[Orthogonal Center Learning with Subspace Masking for Person Re-Identification]().  
