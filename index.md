@@ -59,7 +59,7 @@ __Wenjie Pei__.
 Delft University of Technology, 2018.  
 
 ------------------------------------------------------------------------------------------------------------------------------ 
-- <img align="left" width="300" src="publication/ISA.png">&emsp;Weinong Wang, __Wenjie Pei__, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai.  
+- <img align="left" width="300" src="publication/ISA.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai\*. (\* Joint corresponding authors.)  
 &emsp;[Orthogonal Center Learning with Subspace Masking for Person Re-Identification]().  
 &emsp;__arXiv__, 2019.  
 <br><br><br><br>
