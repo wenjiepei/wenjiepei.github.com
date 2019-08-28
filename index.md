@@ -58,6 +58,13 @@ __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 
+------------------------------------------------------------------------------------------------------------------------------ 
+- <img align="left" width="300" src="publication/ISA.png">&emsp;Weinong Wang, __Wenjie Pei__, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai.  
+&emsp;[Orthogonal Center Learning with Subspace Masking for Person Re-Identification]().  
+&emsp;__arXiv__, 2019.  
+<br><br><br><br>
+&nbsp;
+
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed equally).  
 &emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling](https://arxiv.org/abs/1908.09535).  
