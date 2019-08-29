@@ -61,7 +61,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 - <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai\*. (\* Joint corresponding authors.)  
-&emsp;[Orthogonal Center Learning with Subspace Masking for Person Re-Identification]().  
+&emsp;[Orthogonal Center Learning with Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
 &emsp;__arXiv__, 2019.  
 <br>
 &nbsp;
