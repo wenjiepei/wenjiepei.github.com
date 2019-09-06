@@ -75,7 +75,7 @@ Delft University of Technology, 2018.
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai.  
-&emsp;[Reflective Decoding Network for Image Captioning]().  
+&emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
 &emsp;__ICCV__, 2019.  
 <br><br>
 &nbsp;
@@ -83,7 +83,7 @@ Delft University of Technology, 2018.
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;Yunqiang Li\*, __Wenjie Pei__\*, Yufei Zha and Jan van Gemert (\*both authors contributed 
 &emsp;equally).  
-&emsp;[Push for Quantization: Deep Fisher Hashing]().  
+&emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206).  
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
 &nbsp;
 
