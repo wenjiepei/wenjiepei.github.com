@@ -75,7 +75,7 @@ Delft University of Technology, 2018.
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai.  
+- <img align="left" width="300" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
 &emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
 &emsp;__ICCV__, 2019.  
 <br><br>
