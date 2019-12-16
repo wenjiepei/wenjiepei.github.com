@@ -46,8 +46,7 @@ interests lie in Computer Vision and Pattern Recognition including sequence mode
 ## Research Interest
 - Image Synthesis
 - video/image captioning
-- Sequence Modelling
-- Time series Modelling
+- Sequence (Time Series) Modelling
 - Recurrent Neural Networks
 - Attention Model
 - Deep Learning
@@ -65,8 +64,8 @@ Delft University of Technology, 2018.
 <br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------ 
-- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai\*. (\* Joint corresponding authors.)  
-&emsp;[Orthogonal Center Learning with Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
+- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai. (\* corresponding author.)  
+&emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
 &emsp;__arXiv__, 2019.  
 <br>
 &nbsp;
