@@ -37,6 +37,7 @@ interests lie in Computer Vision and Pattern Recognition including sequence mode
 
 ## Experience
 - 07/2018 - 12/2019, __Tencent Youtu X-Lab__.
+  Senior Researcher.
 - 07/2016 - 12/2016, __Carnegie Mellon University__.  
   Visiting Scholar in Language Technolgy Institute (LTI).  
   Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
