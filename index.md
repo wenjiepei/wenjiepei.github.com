@@ -67,7 +67,7 @@ Delft University of Technology, 2018.
 - <img align="left" width="300" src="publication/cpGAN.png">&emsp; Jiadong Liang\*, __Wenjie Pei__\* and Feng Lu. (\* Equal contribution.)  
 &emsp;[CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/pdf/1912.08562.pdf).  
 &emsp;__arXiv__, 2019.  
-<br><br><br><br>
+<br><br><br><br><br>
 &nbsp;&nbsp;
 
 -----------------------------------------------------------------------------------------------------------------------------
