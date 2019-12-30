@@ -190,6 +190,7 @@ Delft University of Technology, 2018.
 - 2017: __NIPS__, Applied Soft Computing;
 - 2016: IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__);
 
+<!---
 ## Awards
 - 2011 - 2013: Talent Scholarship Program (TSP), __TU/e & Philips__;
 - 2008 - 2011: First-grade Scholarship, __ZJU__;
@@ -199,6 +200,7 @@ Delft University of Technology, 2018.
 ## Participated Projects
 - 2013 - 2016: Smart Assisted Living involving Informal careGivers (SALIG++) project, __AAL-Europe__;  
 I was responsible for the activity recognition.
+-->
 
 ## Contact 
 Email: wenjiecoder@outlook.com, wenjiecoder@gmail.com
