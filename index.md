@@ -161,12 +161,14 @@ Delft University of Technology, 2018.
 &emsp;Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
 <br>
 
+<!---
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/OSA.png">&emsp;__Wenjie Pei__.  
 &emsp;[Extracting Features to Discriminate OSA and non-OSA](https://pure.tue.nl/ws/files/46941503/760935-1.pdf).  
 &emsp;Master Thesis in TU/e, 2013.
 <br><br><br><br><br>
 &nbsp;  
+-->
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/lic.png">&emsp;Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
