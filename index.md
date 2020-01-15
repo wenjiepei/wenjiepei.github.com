@@ -10,7 +10,7 @@ interests lie in Computer Vision and Pattern Recognition including sequence mode
 
 
 ## News
-* 1/2020, I joined Harbin Institute of Technology,Shenzhen.
+* 1/2020, I joined Harbin Institute of Technology, Shenzhen.
 * 10/2019, one paper (on age estimation) was accepted by __TIP__.
 * 07/2019, two paper were accepted by __ICCV__ (one oral), 2019.
 * 07/2019, one paper was accepted by __BMVC (oral)__, 2019.
