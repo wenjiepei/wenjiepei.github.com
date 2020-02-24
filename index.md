@@ -75,6 +75,13 @@ Delft University of Technology, 2018.
 -----------------------------------------------------------------------------------------------------------------------------
 
 
+- <img align="left" width="300" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
+&emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2019.  
+<br>
+
+------------------------------------------------------------------------------------------------------------------------------
+
 - <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai. (\* corresponding author.)  
 &emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
 &emsp;__arXiv__, 2019.  
@@ -118,14 +125,6 @@ Delft University of Technology, 2018.
 &nbsp;
 
 ----------------------------------------------------------------------------------------------------------------------------
-
-
-- <img align="left" width="300" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
-&emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
-&emsp;IEEE Transactions on Image Processing (__TIP__), 2019.  
-<br>
-
-------------------------------------------------------------------------------------------------------------------------------
 
 - <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both  
 &emsp;authors contributed equally).  
