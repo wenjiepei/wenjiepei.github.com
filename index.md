@@ -8,6 +8,8 @@ interests lie in Computer Vision and Pattern Recognition including sequence mode
 
 [Click here to download my Curriculum Vitae.](/resume_28-07-2019.pdf)
 
+__Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD students, for research collaborations on Computer Vision and Machine Learning. Feel free to contact me with your CV.
+
 
 ## News
 * 1/2020, I joined Harbin Institute of Technology, Shenzhen.
