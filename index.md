@@ -12,9 +12,10 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
-* 1/2020, I joined Harbin Institute of Technology, Shenzhen.
+* 07/2020, two papers are accepted by __ECCV__ (one spotlight), 2020.
+* 01/2020, I joined Harbin Institute of Technology, Shenzhen.
 * 10/2019, one paper (on age estimation) was accepted by __TIP__.
-* 07/2019, two paper were accepted by __ICCV__ (one oral), 2019.
+* 07/2019, two papers were accepted by __ICCV__ (one oral), 2019.
 * 07/2019, one paper was accepted by __BMVC (oral)__, 2019.
 * 03/2019, one paper was accepted by __CVPR__, 2019.
 * 07/2018, I joined Tencent Youtu X-Lab.
@@ -69,7 +70,15 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 - <img align="left" width="300" src="publication/cpGAN.png">&emsp; Jiadong Liang\*, __Wenjie Pei__\* and Feng Lu. (\* Equal contribution.)  
 &emsp;[CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/pdf/1912.08562.pdf).  
-&emsp;__arXiv__, 2019.  
+&emsp;__ECCV__, 2020.  
+&emsp;[\[Code\]](https://github.com/dongdongdong666/CPGAN)
+<br><br><br><br><br>
+&nbsp;  
+
+------------------------------------------------------------------------------------------------------------------------------ 
+- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Qi Fan, Lei Ke, __Wenjie Pei__\* and Feng Lu. (\* Corresponding author.)  
+&emsp;[Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](Coming soon).  
+&emsp;__ECCV__, 2020.  
 &emsp;[\[Code\]](https://github.com/dongdongdong666/CPGAN)
 <br><br><br><br><br>
 &nbsp;  
