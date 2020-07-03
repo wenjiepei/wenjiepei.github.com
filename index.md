@@ -78,9 +78,9 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 - <img align="left" width="300" src="publication/CommPN.png">&emsp; Qi Fan, Lei Ke, __Wenjie Pei__\*, Chi-Keung Tang and Yu-Wing Tai. (\* Corresponding author.)  
 &emsp;[Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](Coming soon).  
-&emsp;__ECCV__<span style="color:red">Spotlight</span>, (5% acceptance rate), 2020.  
+&emsp;__ECCV__  <span style="color:red">Spotlight</span>, (5% acceptance rate), 2020.  
 &emsp;[\[Code\]](https://github.com/dongdongdong666/CPGAN)
-<br><br><br><br><br>
+<br><br><br>
 &nbsp;  
 
 -----------------------------------------------------------------------------------------------------------------------------
