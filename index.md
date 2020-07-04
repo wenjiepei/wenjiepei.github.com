@@ -136,8 +136,7 @@ Delft University of Technology, 2018.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__<sup>#</sup>, Jie Yang<sup>#</sup>, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (<sup>#</sup>both  
-&emsp;authors contributed equally).  
+- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__<sup>#</sup>, Jie Yang<sup>#</sup>, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (<sup>#</sup>both authors contributed equally).  
 &emsp;[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
 &emsp;ACM International Conference on Information and Knowledge Management (__CIKM__),  
 &emsp;__full__ paper, 2017.  
