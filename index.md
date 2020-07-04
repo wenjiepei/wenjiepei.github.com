@@ -68,7 +68,7 @@ Delft University of Technology, 2018.
 <br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------ 
-- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Jiadong Liang\*, __Wenjie Pei__\* and Feng Lu. (\* Equal contribution.)  
+- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Jiadong Liang\#, __Wenjie Pei__\# and Feng Lu. (\# Equal contribution.)  
 &emsp;[CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/pdf/1912.08562.pdf).  
 &emsp;__ECCV__  <span style="color:red">Spotlight</span>, (5% acceptance rate), 2020.  
 &emsp;[\[Code\]](https://github.com/dongdongdong666/CPGAN)
@@ -99,7 +99,7 @@ Delft University of Technology, 2018.
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu\*, __Wenjie Pei__\*, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\*both authors contributed equally).  
+- <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu\#, __Wenjie Pei__\#, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (\#both authors contributed equally).  
 &emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling](https://arxiv.org/abs/1908.09535).  
 &emsp;__ICCV__ <span style="color:red">Oral</span>, (4.3% acceptance rate), 2019.  
 <br><br>
@@ -113,7 +113,7 @@ Delft University of Technology, 2018.
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/bmvc.png">&emsp;Yunqiang Li\*, __Wenjie Pei__\*, Yufei Zha and Jan van Gemert (\*both authors contributed 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;Yunqiang Li\#, __Wenjie Pei__\#, Yufei Zha and Jan van Gemert (\#both authors contributed 
 &emsp;equally).  
 &emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206).  
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
@@ -136,7 +136,7 @@ Delft University of Technology, 2018.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__\*, Jie Yang\*, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\*both  
+- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__\#, Jie Yang\#, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (\#both  
 &emsp;authors contributed equally).  
 &emsp;[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
 &emsp;ACM International Conference on Information and Knowledge Management (__CIKM__),  
