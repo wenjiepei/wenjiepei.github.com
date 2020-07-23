@@ -77,7 +77,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 - <img align="left" width="300" src="publication/CommPN.png">&emsp; Qi Fan, Lei Ke, __Wenjie Pei__\*, Chi-Keung Tang and Yu-Wing Tai. (\* Corresponding author.)  
-&emsp;[Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](https://github.com/wenjiepei/wenjiepei.github.com/tree/master/publication/CPMask.pdf).  
+&emsp;[Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](/publication/CPMask.pdf).  
 &emsp;__ECCV__, 2020.  
 <br><br><br>
 &nbsp;  
