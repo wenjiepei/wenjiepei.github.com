@@ -12,6 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 07/2020, one paper is accepted by __ACM MM__, 2020.
 * 07/2020, two papers are accepted by __ECCV__ (one spotlight), 2020.
 * 01/2020, I joined Harbin Institute of Technology, Shenzhen.
 * 10/2019, one paper (on age estimation) was accepted by __TIP__.
@@ -66,6 +67,14 @@ __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 <br><br>
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> joint corresponding authors.)  
+&emsp;[SRHEN: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondence in Deep Latent Space](coming soon).  
+&emsp;__ACM MM__, 2020.  
+<br><br><br>
+&nbsp;  
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 - <img align="left" width="300" src="publication/cpGAN.png">&emsp; Jiadong Liang<sup>#</sup>, __Wenjie Pei__<sup>#</sup> and Feng Lu. (<sup>#</sup> Equal contribution.)  
