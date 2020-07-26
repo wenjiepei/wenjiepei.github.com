@@ -70,7 +70,7 @@ Delft University of Technology, 2018.
 
 
 ------------------------------------------------------------------------------------------------------------------------------ 
-- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> joint corresponding authors.)  
+- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> Joint corresponding authors.)  
 &emsp;[SRHEN: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondence in Deep Latent Space](coming soon).  
 &emsp;__ACM MM__, 2020.  
 <br><br><br>
