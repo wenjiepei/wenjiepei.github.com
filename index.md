@@ -12,6 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 10/2020, one paper (on person Re-ID) was accepted by __TIP__.
 * 07/2020, one paper is accepted by __ACM MM__, 2020.
 * 07/2020, two papers are accepted by __ECCV__ (one spotlight), 2020.
 * 01/2020, I joined Harbin Institute of Technology, Shenzhen.
@@ -70,6 +71,15 @@ Delft University of Technology, 2018.
 
 
 ------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai. (\* corresponding author.)  
+&emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2020.  
+<br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------
+
 - <img align="left" width="300" src="publication/SRHEN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> Joint corresponding authors.)  
 &emsp;[SRHEN: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondence in Deep Latent Space](coming soon).  
 &emsp;__ACM MM__, 2020.  
@@ -98,14 +108,6 @@ Delft University of Technology, 2018.
 &emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2020.  
 <br>
-
-------------------------------------------------------------------------------------------------------------------------------
-
-- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Xiaoyong Shen and Yu-Wing Tai. (\* corresponding author.)  
-&emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
-&emsp;__arXiv__, 2019.  
-<br>
-&nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
