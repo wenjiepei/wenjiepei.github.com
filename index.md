@@ -72,9 +72,17 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
+- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
+&emsp;[Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
+<br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------
+
 - <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Guangming Lu and Yu-Wing Tai. (\* corresponding author.)  
 &emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
-&emsp;IEEE Transactions on Image Processing (__TIP__), 2020.  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
 &nbsp;
 
