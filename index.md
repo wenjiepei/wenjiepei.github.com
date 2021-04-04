@@ -12,6 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.
 * 10/2020, one paper (on person Re-ID) was accepted by __TIP__.
 * 07/2020, one paper is accepted by __ACM MM__, 2020.
 * 07/2020, two papers are accepted by __ECCV__ (one spotlight), 2020.
@@ -72,7 +73,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
+- <img align="left" width="300" src="publication/DMGN.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
 &emsp;[Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
