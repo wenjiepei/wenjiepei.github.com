@@ -74,17 +74,17 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="300" src="publication/DMGN.png">&emsp;Kai Yang, Zhenyu He\*, __Wenjie Pei__\*, Zikun Zhou, Xin Li, Di Yuan, Haijun Zhang. (\* corresponding authors.)  
-&emsp;[SiamCorners: Siamese Corner Networks for Visual Tracking].  
-&emsp;IEEE Transactions on Multimedia (__TMM__), 2021.  
+- <img align="left" width="300" src="publication/DMGN.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
+&emsp;[Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
 &nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/DMGN.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
-&emsp;[Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).  
-&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
+- <img align="left" width="300" src="publication/TMM.png">&emsp;Kai Yang, Zhenyu He\*, __Wenjie Pei__\*, Zikun Zhou, Xin Li, Di Yuan, Haijun Zhang. (\* corresponding authors.)  
+&emsp;[SiamCorners: Siamese Corner Networks for Visual Tracking].  
+&emsp;IEEE Transactions on Multimedia (__TMM__), 2021.  
 <br>
 &nbsp;
 
