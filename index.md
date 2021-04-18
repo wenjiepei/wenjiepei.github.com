@@ -228,7 +228,7 @@ Delft University of Technology, 2018.
 ## Academic Services
 Serve as reviewers for:
 - Conferences: __CVPR__, __ICCV__, __ICML__, __NeurIPS__, __IJCAI__, etc.
-- Journals: __TNNLS__, __TIP__, __TMM__, Pattern Recognition (__PR__), Transactions on Affective Computing (__TAFFC__), etc;
+- Journals: __TNNLS__, __TIP__, __TMM__, Pattern Recognition (__PR__), Transactions on Affective Computing (__TAFFC__), etc.
 
 
 <!---
