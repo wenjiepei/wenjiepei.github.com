@@ -75,9 +75,9 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="300" src="publication/SAOT.png">&emsp;Zikun Zhou, __Wenjie Pei__\*, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He*\*. (\* corresponding authors.)  
-&emsp;Saliency-Associated Object Tracking.Saliency-Associated Object Tracking.  
+&emsp;Saliency-Associated Object Tracking.
 &emsp;__ICCV__, 2021.  
-<br><br><br>
+<br><br><br><br>
 &nbsp;
 
 
@@ -86,7 +86,7 @@ Delft University of Technology, 2018.
 - <img align="left" width="300" src="publication/audio2motion.png">&emsp;Jing Li, Di Kang, Xuefei Zhe, __WenjiePei__, Ying Zhang, Zhenyu He, Linchao Bao.  
 &emsp;Audio2Motion: Generating Diverse Human Motion from Audio with Conditional Variational Autoencoders.  
 &emsp;__ICCV__, 2021.  
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 &nbsp;
 
 
@@ -103,7 +103,7 @@ Delft University of Technology, 2018.
 - <img align="left" width="300" src="publication/TMM.png">&emsp;Kai Yang, Zhenyu He\*, __Wenjie Pei__\*, Zikun Zhou, Xin Li, Di Yuan, Haijun Zhang. (\* corresponding authors.)  
 &emsp;[SiamCorners: Siamese Corner Networks for Visual Tracking](https://arxiv.org/abs/2104.07303).  
 &emsp;IEEE Transactions on Multimedia (__TMM__), 2021.  
-<br>
+<br><br>
 &nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------
