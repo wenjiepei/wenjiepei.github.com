@@ -12,6 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 07/2021, two papers were accepted by __ICCV__.
 * 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.
 * 04/2021, one paper (on visual tracking) was accepted by __TMM__.
 * 10/2020, one paper (on person Re-ID) was accepted by __TIP__.
@@ -70,6 +71,23 @@ __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 <br><br>
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="300" src="publication/DMGN.png">&emsp;Zikun Zhou, __Wenjie Pei__\*, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He*\*. (\* corresponding authors.)  
+&emsp;Saliency-Associated Object Tracking.Saliency-Associated Object Tracking.  
+&emsp;__ICCV__, 2021.  
+<br>
+&nbsp;
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="300" src="publication/DMGN.png">&emsp;Jing Li, Di Kang, Xuefei Zhe, __WenjiePei__, Ying Zhang, Zhenyu He, Linchao Bao.  
+&emsp;Audio2Motion: Generating Diverse Human Motion from Audio with Conditional Variational Autoencoders.  
+&emsp;__ICCV__, 2021.  
+<br>
+&nbsp;
 
 
 ------------------------------------------------------------------------------------------------------------------------------ 
