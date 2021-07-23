@@ -75,7 +75,7 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="300" src="publication/SAOT.png">&emsp;Zikun Zhou, __Wenjie Pei__\*, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He*\*. (\* corresponding authors.)  
-&emsp;Saliency-Associated Object Tracking.
+&emsp;Saliency-Associated Object Tracking.  
 &emsp;__ICCV__, 2021.  
 <br><br><br><br>
 &nbsp;
