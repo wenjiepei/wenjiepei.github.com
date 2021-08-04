@@ -74,7 +74,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="300" src="publication/SAOT.png">&emsp;Zikun Zhou, __Wenjie Pei__\*, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He*\*. (\* corresponding authors.)  
+- <img align="left" width="250" src="publication/SAOT.png">&emsp;Zikun Zhou, __Wenjie Pei__\*, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He\*. (\* corresponding authors.)  
 &emsp;Saliency-Associated Object Tracking.  
 &emsp;__ICCV__, 2021.  
 <br><br><br><br>
@@ -83,7 +83,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="300" src="publication/audio2motion.png">&emsp;Jing Li, Di Kang, Xuefei Zhe, __WenjiePei__, Ying Zhang, Zhenyu He, Linchao Bao.  
+- <img align="left" width="250" src="publication/audio2motion.png">&emsp;Jing Li, Di Kang, Xuefei Zhe, __WenjiePei__, Ying Zhang, Zhenyu He, Linchao Bao.  
 &emsp;Audio2Motion: Generating Diverse Human Motion from Audio with Conditional Variational Autoencoders.  
 &emsp;__ICCV__, 2021.  
 <br><br><br><br><br><br><br>
@@ -92,7 +92,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="300" src="publication/DMGN.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
+- <img align="left" width="250" src="publication/DMGN.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
 &emsp;[Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
@@ -100,7 +100,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/TMM.png">&emsp;Kai Yang, Zhenyu He\*, __Wenjie Pei__\*, Zikun Zhou, Xin Li, Di Yuan, Haijun Zhang. (\* corresponding authors.)  
+- <img align="left" width="250" src="publication/TMM.png">&emsp;Kai Yang, Zhenyu He\*, __Wenjie Pei__\*, Zikun Zhou, Xin Li, Di Yuan, Haijun Zhang. (\* corresponding authors.)  
 &emsp;[SiamCorners: Siamese Corner Networks for Visual Tracking](https://arxiv.org/abs/2104.07303).  
 &emsp;IEEE Transactions on Multimedia (__TMM__), 2021.  
 <br><br>
@@ -108,7 +108,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Guangming Lu and Yu-Wing Tai. (\* corresponding author.)  
+- <img align="left" width="250" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Guangming Lu and Yu-Wing Tai. (\* corresponding author.)  
 &emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
@@ -116,14 +116,14 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/SRHEN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> Joint corresponding authors.)  
+- <img align="left" width="250" src="publication/SRHEN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> Joint corresponding authors.)  
 &emsp;[SRHEN: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondence in Deep Latent Space](coming soon).  
 &emsp;__ACM MM__, 2020.  
 <br><br><br>
 &nbsp;  
 
 ------------------------------------------------------------------------------------------------------------------------------ 
-- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Jiadong Liang<sup>#</sup>, __Wenjie Pei__<sup>#</sup> and Feng Lu. (<sup>#</sup> Equal contribution.)  
+- <img align="left" width="250" src="publication/cpGAN.png">&emsp; Jiadong Liang<sup>#</sup>, __Wenjie Pei__<sup>#</sup> and Feng Lu. (<sup>#</sup> Equal contribution.)  
 &emsp;[CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/pdf/1912.08562.pdf).  
 &emsp;__ECCV__  <span style="color:red">Spotlight</span>, (5% acceptance rate), 2020.  
 &emsp;[\[Code\]](https://github.com/dongdongdong666/CPGAN)
@@ -131,7 +131,7 @@ Delft University of Technology, 2018.
 &nbsp;  
 
 ------------------------------------------------------------------------------------------------------------------------------ 
-- <img align="left" width="300" src="publication/CommPN.png">&emsp; Qi Fan, Lei Ke, __Wenjie Pei__\*, Chi-Keung Tang and Yu-Wing Tai. (\* Corresponding author.)  
+- <img align="left" width="250" src="publication/CommPN.png">&emsp; Qi Fan, Lei Ke, __Wenjie Pei__\*, Chi-Keung Tang and Yu-Wing Tai. (\* Corresponding author.)  
 &emsp;[Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](/publication/CPMask.pdf).  
 &emsp;__ECCV__, 2020.  
 <br><br><br>
@@ -140,34 +140,34 @@ Delft University of Technology, 2018.
 -----------------------------------------------------------------------------------------------------------------------------
 
 
-- <img align="left" width="300" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
+- <img align="left" width="250" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
 &emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2020.  
 <br>
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
+- <img align="left" width="250" src="publication/NRNM.png">&emsp;Canmiao Fu<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
 &emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling](https://arxiv.org/abs/1908.09535).  
 &emsp;__ICCV__ <span style="color:red">Oral</span>, (4.3% acceptance rate), 2019.  
 <br><br>
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
+- <img align="left" width="250" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
 &emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
 &emsp;__ICCV__, 2019.  
 <br><br>
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/bmvc.png">&emsp;Yunqiang Li<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
+- <img align="left" width="250" src="publication/bmvc.png">&emsp;Yunqiang Li<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
 &emsp;equally).  
 &emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206).  
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
 &nbsp;
 
 ----------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/MARN.png">&emsp;__Wenjie Pei__, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
+- <img align="left" width="250" src="publication/MARN.png">&emsp;__Wenjie Pei__, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
 &emsp;[Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.pdf).  
 &emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.  
 <br><br>
@@ -175,7 +175,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="300" src="publication/ISA.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
+- <img align="left" width="250" src="publication/ISA.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
 &emsp;[Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
 &emsp;__arXiv__, 2018.  
 <br><br><br><br>
@@ -183,7 +183,7 @@ Delft University of Technology, 2018.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/IARN2.png">&emsp;__Wenjie Pei__<sup>#</sup>, Jie Yang<sup>#</sup>, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (<sup>#</sup>both authors contributed equally).  
+- <img align="left" width="250" src="publication/IARN2.png">&emsp;__Wenjie Pei__<sup>#</sup>, Jie Yang<sup>#</sup>, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (<sup>#</sup>both authors contributed equally).  
 &emsp;[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
 &emsp;ACM International Conference on Information and Knowledge Management (__CIKM__),  
 &emsp;__full__ paper, 2017.  
@@ -192,28 +192,28 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-- <img align="left" width="300" src="publication/TAGM.png">&emsp;__Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
+- <img align="left" width="250" src="publication/TAGM.png">&emsp;__Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
 &emsp;[Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
 &emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
 &emsp;[\[Code\]](https://github.com/wenjiepei/TAGM) [\[Video\]](/publication/TAGM_final.mp4)
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/HULM.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
+- <img align="left" width="250" src="publication/HULM.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
 &emsp;[Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/).  
 &emsp;IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017.   
 &emsp;[\[Code\]](https://github.com/wenjiepei/HULM)        
 <br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/SRN.png">&emsp;__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
+- <img align="left" width="250" src="publication/SRN.png">&emsp;__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
 &emsp;[Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
 &emsp;__arXiv__, 2016.  
 &emsp;[\[High-resolution (12K * 9K) signatures distribution map clustered by our model\]](/publication/MCYT_full.png)   
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/topk.png">&emsp;Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
+- <img align="left" width="250" src="publication/topk.png">&emsp;Hoang Thanh Lam, __Wenjie Pei__, Adriana Prado, Baptiste Jeudy and Élisa Fromont.  
 &emsp;[Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
 &emsp;Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
 <br>
@@ -225,7 +225,7 @@ Delft University of Technology, 2018.
 &emsp;Master Thesis in TU/e, 2013.
 <br><br><br><br><br>
 &nbsp;  
--->
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 - <img align="left" width="300" src="publication/lic.png">&emsp;Jin Huang, __Wenjie Pei__, Chunfeng Wen, Guoning Chen, Wei Chen and Hujun Bao.  
@@ -239,7 +239,7 @@ Delft University of Technology, 2018.
 &emsp;[Controllable highly regular triangulation](http://ieeexplore.ieee.org/abstract/document/7325231/).  
 &emsp;Science China Information Sciences 54(6), 1172-1183, 2011.  
 <br><br><br><br>   
-  
+-->  
 ------------------------------------------------------------------------------------------------------------------------------
 
 
