@@ -12,6 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 07/2021, one paper (one speech separation) weas accepted by __TASLP__.
 * 07/2021, two papers were accepted by __ICCV__.
 * 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.
 * 04/2021, one paper (on visual tracking) was accepted by __TMM__.
@@ -71,6 +72,15 @@ __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 <br><br>
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/model.png">&emsp;Zengwei Yao, __Wenjie Pei__\*, Fanglin Chen, Guangming Lu\*, David Zhang. (\* corresponding authors.)  
+&emsp;Saliency-Associated Object Tracking.  
+&emsp;IEEE Transactions on Audio, Speech, and Language Processing(__TASLP__), 2021.  
+<br><br><br>
+&nbsp;
+
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
