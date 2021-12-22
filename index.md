@@ -12,7 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
-* 07/2021, one paper (one speech separation) was accepted by __TASLP__.
+* 12/2021, one paper (one speech separation) was accepted by __TASLP__.
 * 07/2021, two papers were accepted by __ICCV__.
 * 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.
 * 04/2021, one paper (on visual tracking) was accepted by __TMM__.
