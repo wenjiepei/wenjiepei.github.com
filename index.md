@@ -78,7 +78,7 @@ Delft University of Technology, 2018.
 - <img align="left" width="250" src="publication/model.png">&emsp;Zengwei Yao, __Wenjie Pei__\*, Fanglin Chen, Guangming Lu\*, David Zhang. (\* corresponding authors.)  
 &emsp; Stepwise-Refining Speech Separation Network via Fine-Grained Encoding in High-order Latent Domain..  
 &emsp; IEEE Transactions on Audio, Speech, and Language Processing(__TASLP__), 2021.  
-<br><br><br>
+<br><br><br><br><br>
 &nbsp;
 
 
