@@ -80,8 +80,8 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/cvpr2022_teaser.png">&emsp;Zikun Zhou, Jianqiu Chen, Zhenyu He*, Kaige Mao, Hongpeng Wang, __Wenjie Pei__\* (\*corresponding authors).
-&emsp; Global Tracking via Ensemble of Local Trackers. 
+- <img align="left" width="250" src="publication/cvpr2022_teaser.png">&emsp;Zikun Zhou, Jianqiu Chen, Zhenyu He*, Kaige Mao, Hongpeng Wang, __Wenjie Pei__\* (\*corresponding authors).  
+&emsp; Global Tracking via Ensemble of Local Trackers.  
 &emsp; __CVPR__, 2022.  
 <br><br><br><br><br>
 &nbsp;
@@ -89,7 +89,7 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="250" src="publication/acl_image_2022.png">&emsp;Bin Liang, Chenwei Lou, Xiang Li, Min Yang, Lin Gui, Yulan He, __Wenjie Pei__, Ruifeng Xu.  
-&emsp; Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network. 
+&emsp; Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network.  
 &emsp; __ACL__, 2022.  
 <br><br><br><br><br>
 &nbsp;
@@ -99,7 +99,7 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="250" src="publication/model.png">&emsp;Zengwei Yao, __Wenjie Pei__\*, Fanglin Chen, Guangming Lu\*, David Zhang. (\* corresponding authors.)  
-&emsp; Stepwise-Refining Speech Separation Network via Fine-Grained Encoding in High-order Latent Domain..  
+&emsp; Stepwise-Refining Speech Separation Network via Fine-Grained Encoding in High-order Latent Domain.  
 &emsp; IEEE Transactions on Audio, Speech, and Language Processing(__TASLP__), 2021.  
 <br><br><br><br><br>
 &nbsp;
