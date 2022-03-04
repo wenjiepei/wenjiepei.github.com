@@ -12,6 +12,8 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 03/2022, one paper was accepted by __CVPR__.
+* 02/2022, one paper was accepted by __ACL__.
 * 12/2021, one paper (on speech separation) was accepted by __TASLP__.
 * 07/2021, two papers were accepted by __ICCV__.
 * 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.
@@ -72,6 +74,27 @@ __Wenjie Pei__.
 [Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
 Delft University of Technology, 2018.  
 <br><br>
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/model.png">&emsp;Zikun Zhou, Jianqiu Chen, Zhenyu He*, Kaige Mao, Hongpeng Wang, __Wenjie Pei__\* (\*corresponding authors).
+&emsp; Global Tracking via Ensemble of Local Trackers. 
+&emsp; __CVPR__, 2021.  
+<br><br><br><br><br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/model.png">&emsp;Bin Liang, Chenwei Lou, Xiang Li, Min Yang, Lin Gui, Yulan He, __Wenjie Pei__, Ruifeng Xu.  
+&emsp; Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network. 
+&emsp; __ACL__, 2021.  
+<br><br><br><br><br>
+&nbsp;
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
