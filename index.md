@@ -80,7 +80,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/model.png">&emsp;Zikun Zhou, Jianqiu Chen, Zhenyu He*, Kaige Mao, Hongpeng Wang, __Wenjie Pei__\* (\*corresponding authors).
+- <img align="left" width="250" src="publication/cvpr2022_teaser.png">&emsp;Zikun Zhou, Jianqiu Chen, Zhenyu He*, Kaige Mao, Hongpeng Wang, __Wenjie Pei__\* (\*corresponding authors).
 &emsp; Global Tracking via Ensemble of Local Trackers. 
 &emsp; __CVPR__, 2022.  
 <br><br><br><br><br>
@@ -88,7 +88,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/model.png">&emsp;Bin Liang, Chenwei Lou, Xiang Li, Min Yang, Lin Gui, Yulan He, __Wenjie Pei__, Ruifeng Xu.  
+- <img align="left" width="250" src="publication/acl_image_2022.png">&emsp;Bin Liang, Chenwei Lou, Xiang Li, Min Yang, Lin Gui, Yulan He, __Wenjie Pei__, Ruifeng Xu.  
 &emsp; Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network. 
 &emsp; __ACL__, 2022.  
 <br><br><br><br><br>
