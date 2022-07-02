@@ -97,6 +97,14 @@ Delft University of Technology, 2018.
 <br>
 &nbsp;  
 
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/srsts_github.jpg">&emsp; Fengjun Li, Xin Feng, Fanglin Chen, Guangming Lu, and __Wenjie Pei__\*. (\*corresponding authors.)  
+&emsp; Learning Generalizable Latent Representations for Novel Degradations in Super-Resolution.  
+&emsp;__ACM MM__, 2022.  
+<br>
+&nbsp;  
+
 ---------------------------------------------------------------------------------------------------------------------------- 
 
 - <img align="left" width="250" src="publication/cvpr2022_teaser.png">&emsp;Zikun Zhou, Jianqiu Chen, __Wenjie Pei__\*, Kaige Mao, Hongpeng Wang, Zhenyu He*.(\*corresponding authors).  
