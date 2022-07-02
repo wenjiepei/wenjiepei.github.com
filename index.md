@@ -12,6 +12,9 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 06/2022, one paper was accepted by __IJCV__.
+* 06/2022, two paper was accepted by __ACM MM__.
+* 06/2022, one paper was accepted by __TIP__.
 * 03/2022, one paper was accepted by __CVPR__.
 * 02/2022, one paper was accepted by __ACL__.
 * 12/2021, one paper (on speech separation) was accepted by __TASLP__.
@@ -80,6 +83,14 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
+- <img align="left" width="250" src="publication/NRNM.jpg">&emsp; __Wenjie Pei__<sup>#</sup>, Xin Feng<sup>#</sup>, Canmiao Fu, Qiong Cao, Guangming Lu and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
+&emsp;[Learning Sequence Representations by Non-local Recurrent Neural Memory].
+&emsp;International Journal of Computer Vision (__IJCV__), 2022.  
+<br><br>
+&nbsp;
+
+---------------------------------------------------------------------------------------------------------------------------- 
+
 - <img align="left" width="250" src="publication/cvpr2022_teaser.png">&emsp;Zikun Zhou, Jianqiu Chen, __Wenjie Pei__\*, Kaige Mao, Hongpeng Wang, Zhenyu He*.(\*corresponding authors).  
 &emsp; Global Tracking via Ensemble of Local Trackers.  
 &emsp; __CVPR__, 2022.  
@@ -100,7 +111,7 @@ Delft University of Technology, 2018.
 
 - <img align="left" width="250" src="publication/model.png">&emsp;Zengwei Yao, __Wenjie Pei__\*, Fanglin Chen, Guangming Lu\*, David Zhang. (\* corresponding authors.)  
 &emsp; Stepwise-Refining Speech Separation Network via Fine-Grained Encoding in High-order Latent Domain.  
-&emsp; IEEE Transactions on Audio, Speech, and Language Processing(__TASLP__), 2021.  
+&emsp; IEEE Transactions on Audio, Speech, and Language Processing (__TASLP__), 2021.  
 <br><br><br><br><br>
 &nbsp;
 
