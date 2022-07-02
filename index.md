@@ -12,7 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
-* 06/2022, one paper was accepted by __IJCV__.
+* 07/2022, one paper was accepted by __IJCV__.
 * 06/2022, two paper was accepted by __ACM MM__.
 * 06/2022, one paper was accepted by __TIP__.
 * 03/2022, one paper was accepted by __CVPR__.
@@ -88,6 +88,14 @@ Delft University of Technology, 2018.
 &emsp;International Journal of Computer Vision (__IJCV__), 2022.  
 <br><br>
 &nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/srsts_github.jpg">&emsp; JingJing Wu, Pengyuan Lyu, Guangming Lu, Chengquan Zhang, Kun Yao and __Wenjie Pei__<sup>*</sup>. (<sup>*</sup> Joint corresponding authors.)  
+&emsp; Decoupling Recognition from Detection: Single Shot Self-Reliant Scene Text Spotter.  
+&emsp;__ACM MM__, 2022.  
+<br>
+&nbsp;  
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 
