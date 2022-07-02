@@ -84,7 +84,7 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="250" src="publication/NRNM.jpg">&emsp; __Wenjie Pei__<sup>#</sup>, Xin Feng<sup>#</sup>, Canmiao Fu, Qiong Cao, Guangming Lu and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
-&emsp;[Learning Sequence Representations by Non-local Recurrent Neural Memory].
+&emsp;Learning Sequence Representations by Non-local Recurrent Neural Memory.  
 &emsp;International Journal of Computer Vision (__IJCV__), 2022.  
 <br><br>
 &nbsp;
