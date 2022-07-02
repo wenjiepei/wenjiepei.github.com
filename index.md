@@ -110,7 +110,7 @@ Delft University of Technology, 2018.
 - <img align="left" width="250" src="publication/zebin_tip.png">&emsp; Zebin Lin, __Wenjie Pei__\*, Fanglin Chen, David Zhang and Guangming Lu\*. (\* corresponding author.)  
 &emsp;[Pedestrian Detection by Exemplar-Guided Contrastive Learning]([https://arxiv.org/abs/1908.10535](https://arxiv.org/pdf/2111.08974.pdf)).  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2022.  
-<br>
+<br><br><br><br>
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
