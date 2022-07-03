@@ -100,7 +100,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/multifaceted.jpg">&emsp; Shuang Wu, __Wenjie Pei__\*, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
+- <img align="left" width="250" src="publication/multifaceted.png">&emsp; Shuang Wu, __Wenjie Pei__\*, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
 &emsp; Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection.  
 &emsp;__ECCV__, 2022.  
 <br>
@@ -109,7 +109,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/BoVW.jpg">&emsp; __Wenjie Pei__\#, Shuang Wu\#, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
+- <img align="left" width="250" src="publication/BoVW.png">&emsp; __Wenjie Pei__\#, Shuang Wu\#, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
 &emsp; Few-Shot Object Detection by Knowledge Distillation Using Bag-of-Visual-Words Representations.  
 &emsp;__ECCV__, 2022.  
 <br>
