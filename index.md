@@ -92,14 +92,6 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/srsts_github.jpg">&emsp; JingJing Wu, Pengyuan Lyu, Guangming Lu, Chengquan Zhang, Kun Yao and __Wenjie Pei__\*. (\*corresponding authors.)  
-&emsp; Decoupling Recognition from Detection: Single Shot Self-Reliant Scene Text Spotter.  
-&emsp;__ACM MM__, 2022.  
-<br>
-&nbsp;  
-
------------------------------------------------------------------------------------------------------------------------------- 
-
 - <img align="left" width="250" src="publication/multifaceted.png">&emsp; Shuang Wu, __Wenjie Pei__\*, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
 &emsp; Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection.  
 &emsp;__ECCV__, 2022.  
@@ -121,6 +113,15 @@ Delft University of Technology, 2018.
 - <img align="left" width="250" src="publication/SSF.png">&emsp; Qi Fan, __Wenjie Pei__\*, Yu-Wing Tai, Chi-Keung Tang. (\*corresponding authors.)  
 &emsp; Self-Support Few-Shot Semantic Segmentation.  
 &emsp;__ECCV__, 2022.  
+<br>
+&nbsp;  
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/srsts_github.jpg">&emsp; JingJing Wu, Pengyuan Lyu, Guangming Lu, Chengquan Zhang, Kun Yao and __Wenjie Pei__\*. (\*corresponding authors.)  
+&emsp; Decoupling Recognition from Detection: Single Shot Self-Reliant Scene Text Spotter.  
+&emsp;__ACM MM__, 2022.  
 <br>
 &nbsp;  
 
