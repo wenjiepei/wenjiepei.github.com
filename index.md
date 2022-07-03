@@ -13,7 +13,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 ## News
 * 07/2022, one paper was accepted by __IJCV__.
-* 07/2022, three paper was accepted by __ECCV__.
+* 07/2022, three papers was accepted by __ECCV__.
 * 06/2022, two paper was accepted by __ACM MM__.
 * 06/2022, one paper was accepted by __TIP__.
 * 03/2022, one paper was accepted by __CVPR__.
