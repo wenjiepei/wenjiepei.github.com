@@ -13,6 +13,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 ## News
 * 07/2022, one paper was accepted by __IJCV__.
+* 07/2022, three paper was accepted by __ECCV__.
 * 06/2022, two paper was accepted by __ACM MM__.
 * 06/2022, one paper was accepted by __TIP__.
 * 03/2022, one paper was accepted by __CVPR__.
@@ -94,6 +95,23 @@ Delft University of Technology, 2018.
 - <img align="left" width="250" src="publication/srsts_github.jpg">&emsp; JingJing Wu, Pengyuan Lyu, Guangming Lu, Chengquan Zhang, Kun Yao and __Wenjie Pei__\*. (\*corresponding authors.)  
 &emsp; Decoupling Recognition from Detection: Single Shot Self-Reliant Scene Text Spotter.  
 &emsp;__ACM MM__, 2022.  
+<br>
+&nbsp;  
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/multifaceted.jpg">&emsp; Shuang Wu, __Wenjie Pei__\*, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
+&emsp; Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection.  
+&emsp;__ECCV__, 2022.  
+<br>
+&nbsp;  
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/BoVW.jpg">&emsp; __Wenjie Pei__\#, Shuang Wu\#, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
+&emsp; Few-Shot Object Detection by Knowledge Distillation Using Bag-of-Visual-Words Representations.  
+&emsp;__ECCV__, 2022.  
 <br>
 &nbsp;  
 
