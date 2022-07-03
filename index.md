@@ -115,6 +115,15 @@ Delft University of Technology, 2018.
 <br>
 &nbsp;  
 
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/SSF.png">&emsp; Qi Fan, __Wenjie Pei__\*, Yu-Wing Tai, Chi-Keung Tang. (\*corresponding authors.)  
+&emsp; Self-Support Few-Shot Semantic Segmentation.  
+&emsp;__ECCV__, 2022.  
+<br>
+&nbsp;  
+
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="250" src="publication/fengjun_MM.png">&emsp; Fengjun Li, Xin Feng, Fanglin Chen, Guangming Lu, and __Wenjie Pei__\*. (\*corresponding authors.)  
