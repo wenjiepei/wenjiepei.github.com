@@ -12,6 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 07/2022, one paper was accepted by __NeurIPS__.
 * 07/2022, one paper was accepted by __IJCV__.
 * 07/2022, three papers were accepted by __ECCV__.
 * 06/2022, two paper were accepted by __ACM MM__.
@@ -80,6 +81,14 @@ Delft University of Technology, 2018.
 <br><br>
 
 
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/NRNM.jpg">&emsp; Jing Xu, Xu Luo, Xinglin Pan, Yanan Li, __Wenjie Pei__ and Zenglin, Xu. 
+&emsp;Alleviating the Sampling Bias of Few Shot Data by Removing Projection to the Centroid.  
+&emsp;__NeurIPS__, 2022.  
+<br><br>
+&nbsp;
 
 
 ------------------------------------------------------------------------------------------------------------------------------ 
