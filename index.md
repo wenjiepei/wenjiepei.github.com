@@ -15,7 +15,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 * 09/2022, one paper was accepted by __NeurIPS__.
 * 07/2022, one paper was accepted by __IJCV__.
 * 07/2022, three papers were accepted by __ECCV__.
-* 06/2022, two paper were accepted by __ACM MM__.
+* 06/2022, two paper were accepted by __ACM MM__ (one oral).
 * 06/2022, one paper was accepted by __TIP__.
 * 03/2022, one paper was accepted by __CVPR__.
 * 02/2022, one paper was accepted by __ACL__.
