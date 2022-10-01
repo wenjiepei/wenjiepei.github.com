@@ -130,7 +130,7 @@ Delft University of Technology, 2018.
 
 - <img align="left" width="250" src="publication/srsts_github.jpg">&emsp; JingJing Wu, Pengyuan Lyu, Guangming Lu, Chengquan Zhang, Kun Yao and __Wenjie Pei__\*. (\*corresponding authors.)  
 &emsp; Decoupling Recognition from Detection: Single Shot Self-Reliant Scene Text Spotter.  
-&emsp;__ACM MM__, 2022.  
+&emsp;__ACM MM__, __Oral__, 2022.  
 <br>
 &nbsp;  
 
