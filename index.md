@@ -12,6 +12,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 12/2022, one paper was accepted by __TNNLS__.
 * 09/2022, one paper was accepted by __NeurIPS__.
 * 07/2022, one paper was accepted by __IJCV__.
 * 07/2022, three papers were accepted by __ECCV__.
@@ -98,6 +99,15 @@ Delft University of Technology, 2018.
 &emsp;International Journal of Computer Vision (__IJCV__), 2022.  
 <br><br>
 &nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/CTP.png">&emsp; Xin Li<sup>#</sup>, __Wenjie Pei____<sup>#</sup>, _Zikun Zhou, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang. (\*corresponding authors.)  
+&emsp; Self-Supervised Tracking via Target-Aware Data Synthesis.  
+&emsp;__TNNLS__, 2022.  
+<br>
+&nbsp;  
+
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
