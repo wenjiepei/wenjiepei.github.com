@@ -102,7 +102,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/CTP.png">&emsp; Xin Li<sup>#</sup>, __Wenjie Pei____<sup>#</sup>, _Zikun Zhou, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang. (\*corresponding authors.)  
+- <img align="left" width="250" src="publication/CTP.png">&emsp; Xin Li<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, _Zikun Zhou, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang. (\*corresponding authors.)  
 &emsp; Self-Supervised Tracking via Target-Aware Data Synthesis.  
 &emsp;__TNNLS__, 2022.  
 <br>
