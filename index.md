@@ -85,7 +85,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/nips.png">&emsp; Jing Xu, Xu Luo, Xinglin Pan, __Wenjie Pei__Yanan Li and Zenglin, Xu.  
+- <img align="left" width="250" src="publication/nips.png">&emsp; Jing Xu, Xu Luo, Xinglin Pan, __Wenjie Pei__, Yanan Li and Zenglin, Xu.  
 &emsp;Alleviating the Sampling Bias of Few Shot Data by Removing Projection to the Centroid.  
 &emsp;__NeurIPS__, 2022.  
 <br><br>
