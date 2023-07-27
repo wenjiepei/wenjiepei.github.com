@@ -93,13 +93,28 @@ Delft University of Technology, 2018.
 <br><br>
 &nbsp;
 
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/teaser_tang.png">&emsp; Songlin Tang, __Wenjie Pei__\*, Xin Tao, Tanghui Jia, Guangming Lu, Yu-Wing Tai. (\*corresponding author.)   
+&emsp;Scene-generalizable Interactive Segmentation of Radiance Fields.  
+&emsp;__ACM MM__, 2023.  
+<br><br>
+&nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/teaser_zeng.png">&emsp; Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, __Wenjie Pei__\*. (\*corresponding authors.)   
-&emsp;Feature Decoupling-Recycling Network for Fast Interactive Segmentation.  
+- <img align="left" width="250" src="publication/teaser_ning.png">&emsp; Zhenhua Ning, Zhuotao Tian, Guangming Lu, __Wenjie Pei__\*. (\*corresponding author.)   
+&emsp;Boosting Few-shot 3D point cloud segmentation via query-guided enhancement.  
 &emsp;__ACM MM__, 2023.  
 <br><br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/teaser_zeng.png">&emsp; Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, __Wenjie Pei__\*. (\*corresponding author.)   
+&emsp;Feature Decoupling-Recycling Network for Fast Interactive Segmentation.  
+&emsp;__ACM MM__, 2023.  
+<br><br><br><br>
 &nbsp;
 
 
@@ -122,7 +137,7 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-- <img align="left" width="250" src="publication/CTP.png">&emsp; Xin Li<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, _Zikun Zhou, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang. (\*corresponding authors.)  
+- <img align="left" width="250" src="publication/CTP.png">&emsp; Xin Li<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, _Zikun Zhou, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang. (<sup>#</sup>both authors contributed equally)  
 &emsp; Self-Supervised Tracking via Target-Aware Data Synthesis.  
 &emsp;__TNNLS__, 2022.  
 <br>
