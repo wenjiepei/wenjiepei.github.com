@@ -117,8 +117,16 @@ Delft University of Technology, 2018.
 <br><br><br><br>
 &nbsp;
 
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/audio2motion.png">&emsp;Jing Li, Di Kang, __Wenjie Pei__, Xuefei Zhe, Ying Zhang, Linchao Bao, Zhenyu He.  
+&emsp;Audio2Gestures: Generating Diverse Gesturesfrom Audio.  
+&emsp;__TVCG__, 2023 (extended from ICCV 2021).  
+<br><br><br><br><br>
+&nbsp;
 
 ------------------------------------------------------------------------------------------------------------------------------ 
+
 
 - <img align="left" width="250" src="publication/nips.png">&emsp; Jing Xu, Xu Luo, Xinglin Pan, __Wenjie Pei__, Yanan Li and Zenglin, Xu.  
 &emsp;Alleviating the Sampling Bias of Few Shot Data by Removing Projection to the Centroid.  
