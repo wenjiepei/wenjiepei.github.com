@@ -85,6 +85,23 @@ Delft University of Technology, 2018.
 <br><br>
 
 
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/teaser_feng_iccv.png">&emsp; Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)   
+&emsp;Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection.  
+&emsp;__ICCV__, 2023.  
+<br><br>
+&nbsp;
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/teaser_zeng.png">&emsp; Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, __Wenjie Pei__\*. (\*corresponding authors.)   
+&emsp;Feature Decoupling-Recycling Network for Fast Interactive Segmentation.  
+&emsp;__ACM MM__, 2023.  
+<br><br>
+&nbsp;
+
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
