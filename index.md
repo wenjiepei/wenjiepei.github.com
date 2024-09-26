@@ -6,7 +6,7 @@ Wenjie Pei is a Professor with the Harbin Institute of Technology, Shenzhen, Chi
 He got his Ph.D. at Pattern Recognition and Computer Vision Lab, Delft University of Technology and worked with [Prof. David Tax (TU Delft)](https://scholar.google.com/citations?user=Q9U33SsAAAAJ) and [Dr. Laurens van der Maaten (Facebook AI Research)](https://lvdmaaten.github.io/). Before joining Harbin Institute of Technology, he was a Senior Researcher on Computer Vision at Tencent Youtu X-Lab. In 2016, he was a visiting scholar with the Carnegie Mellon University (__CMU__). His research
 interests lie in Computer Vision and Pattern Recognition including sequence modeling, deep learning, video/image captioning, image synthesis, etc.
 
-[Click here to download my Curriculum Vitae.](/resume_28-07-2019.pdf)
+Check [my school homepage](https://faculty.hitsz.edu.cn/peiwenjie) for more  information.
 
 __Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD students, for research collaborations on Computer Vision and Machine Learning. Feel free to contact me with your CV.
 
