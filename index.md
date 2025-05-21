@@ -57,30 +57,26 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
  __Bachelor__ of Business Administration.
 
 ## Experience
-- 01/2024 - present, __Harbin Institute of Technology, Shenzhen__.
-  Professor.
-- 01/2022 - 12/2023, __Harbin Institute of Technology, Shenzhen__.
-  Associate Professor.
-- 01/2020 - 12/2021, __Harbin Institute of Technology, Shenzhen__.
-  Assistant Professor.
+- 01/2024 - present, __Harbin Institute of Technology, Shenzhen__.  
+  Professor.  
+- 01/2022 - 12/2023, __Harbin Institute of Technology, Shenzhen__.  
+  Associate Professor.  
+- 01/2020 - 12/2021, __Harbin Institute of Technology, Shenzhen__.  
+  Assistant Professor.  
 - 07/2018 - 12/2019, __Tencent Youtu X-Lab__.  
-  Senior Researcher.
+  Senior Researcher.  
 - 07/2016 - 12/2016, __Carnegie Mellon University__.  
   Visiting Scholar in Language Technolgy Institute (LTI).  
   Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
 - 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
 
 ## Research Interest
+- Few-shot Learning
+- Large vision models
 - Image Synthesis
 - video/image captioning
 - Sequence (Time Series) Modelling
-- Recurrent Neural Networks
-- Attention Model
-- Deep Learning
-- Sequence-related applications, e.g, age estimation from facial videos
-- Object Detection
-- Person Re-Identification
-- Hashing for Image Retrival
+- Object tracking
 
 ## Publications 
 
