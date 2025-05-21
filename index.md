@@ -87,6 +87,37 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
+Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)   
+Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection.  
+__ICCV__, 2023.  
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+Songlin Tang, __Wenjie Pei__\*, Xin Tao, Tanghui Jia, Guangming Lu, Yu-Wing Tai. (\*corresponding author.)   
+Scene-generalizable Interactive Segmentation of Radiance Fields.  
+__ACM MM__, 2023.  
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+Zhenhua Ning, Zhuotao Tian, Guangming Lu, __Wenjie Pei__\*. (\*corresponding author.)   
+Boosting Few-shot 3D point cloud segmentation via query-guided enhancement.  
+__ACM MM__, 2023.  
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, __Wenjie Pei__\*. (\*corresponding author.)   
+Feature Decoupling-Recycling Network for Fast Interactive Segmentation.  
+__ACM MM__, 2023.  
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+<!---
+
+
 - <img align="left" width="250" src="publication/teaser_feng_iccv.png">&emsp; Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)   
 &emsp;Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection.  
 &emsp;__ICCV__, 2023.  
@@ -375,6 +406,7 @@ Delft University of Technology, 2018.
 &emsp;[Mining top-k largest tiles in a data stream](https://hal.archives-ouvertes.fr/hal-01011374/file/tile.pdf).  
 &emsp;Joint European Conference on Machine Learning and Knowledge Discovery in Databases (__ECML PKDD__), 2014.  
 <br>
+--> 
 
 <!---
 ------------------------------------------------------------------------------------------------------------------------------
