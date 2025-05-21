@@ -87,33 +87,33 @@ Delft University of Technology, 2018.
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)   
+- Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)   
 Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection.  
 __ICCV__, 2023.  
 &nbsp;
 
------------------------------------------------------------------------------------------------------------------------------- 
 
-Songlin Tang, __Wenjie Pei__\*, Xin Tao, Tanghui Jia, Guangming Lu, Yu-Wing Tai. (\*corresponding author.)   
+
+- Songlin Tang, __Wenjie Pei__\*, Xin Tao, Tanghui Jia, Guangming Lu, Yu-Wing Tai. (\*corresponding author.)   
 Scene-generalizable Interactive Segmentation of Radiance Fields.  
 __ACM MM__, 2023.  
 &nbsp;
 
------------------------------------------------------------------------------------------------------------------------------- 
 
-Zhenhua Ning, Zhuotao Tian, Guangming Lu, __Wenjie Pei__\*. (\*corresponding author.)   
+
+- Zhenhua Ning, Zhuotao Tian, Guangming Lu, __Wenjie Pei__\*. (\*corresponding author.)   
 Boosting Few-shot 3D point cloud segmentation via query-guided enhancement.  
 __ACM MM__, 2023.  
 &nbsp;
 
------------------------------------------------------------------------------------------------------------------------------- 
 
-Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, __Wenjie Pei__\*. (\*corresponding author.)   
+
+- Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, __Wenjie Pei__\*. (\*corresponding author.)   
 Feature Decoupling-Recycling Network for Fast Interactive Segmentation.  
 __ACM MM__, 2023.  
 &nbsp;
 
------------------------------------------------------------------------------------------------------------------------------- 
+
 
 <!---
 
