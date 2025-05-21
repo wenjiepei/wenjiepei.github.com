@@ -92,39 +92,55 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 \* denotes corresponding author while \# indicates equal contribution.
 
-- Zhengyao Fang, Pengyuan Lv, Jingjing Wu, Chengquan Zhang, Jun Yu, __Wenjie Pei__\*.
-Recognition-Synergistic Scene Text Editing.
-__CVPR__, 2025.
+- Zhengyao Fang, Pengyuan Lv, Jingjing Wu, Chengquan Zhang, Jun Yu, __Wenjie Pei__\*.  
+Recognition-Synergistic Scene Text Editing.  
+__CVPR__, 2025.  
 
-- Yushuai Sun, Zikun Zhou, Dongmei Jiang, Yaowei Wang, Jun Yu, Guangming Lu, __Wenjie Pei__\*.
-Learning Compatible Multi-Prize Subnetworks for Asymmetric Retrieval.
-__CVPR__, 2025.
+- Yushuai Sun, Zikun Zhou, Dongmei Jiang, Yaowei Wang, Jun Yu, Guangming Lu, __Wenjie Pei__\*.  
+Learning Compatible Multi-Prize Subnetworks for Asymmetric Retrieval.  
+__CVPR__, 2025.  
 
-- Jiapeng Su, Qi Fan, Guangming Lu, Fanglin Chen, __Wenjie Pei__\*.
-Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation.
+- Jiapeng Su, Qi Fan, Guangming Lu, Fanglin Chen, __Wenjie Pei__\*.  
+Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation.  
 __CVPR__, 2024.
 
-- Jingjing Wu, Zhengyao Fang, Pengyuan Lyu, Chengquan Zhang, Fanglin Chen, Guangming Lu, __Wenjie Pei__\*.
-WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting.
-__ECCV__, 2024.
+- __Wenjie Pei__\#, Weina Xu#, Zongze Wu, Weichao Li, Jinfan Wang, Guangming Lu, Xiangrong Wang*.
+Saliency-Aware Regularized Graph Neural Network.  
+Artificial Intelligence (__AIJ__), 2024.  
 
-- Shuang Wu, Songlin Tang, Guangming Lu, Jianzhuang Liu, __Wenjie Pei__\*.
-UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation.
-__ECCV__, 2024.
+- Honghu Pan, __Wenjie Pei__, Xin Li, Zhenyu He.  
+Unified Conditional Image Generation for Visible-Infrared Person Re-Identification.  
+IEEE Transactions on Information Forensics and Security (__TIFS__), 2024.  
 
-- Yanan Sun, Yanchen Liu, Yinhao Tang, __Wenjie Pei__, Kai Chen.
-AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation.
-__ECCV__, 2024.
+- Zikun Zhou, Kaige Mao, __Wenjie Pei__, Hongpeng Wang, Yaowei Wang, Zhenyu He. 
+Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation.   
+IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2024.  
 
-- __Wenjie Pei__\#, Tongqi Xia#, Fanglin Chen, Jiandong Tian, Guangming Lu*.
-Spatially Aligned-and-Adapted Visual Prompting.
-__AAAI__, 2024.
+- Jing Xu, Xinglin Pan, Jingquan Wang, __Wenjie Pei__, Qing Liao, Zenglin Xu.  
+CORE: CORrelation-guided Feature Enhancement for Few-shot Image Classification.  
+IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2024.  
 
-- Jingwen Zhang#, Zikun Zhou#, Guangming Lu, Jiandong Tian, __Wenjie Pei__\*.
-Robust 3D Tracking with Quality-Aware Shape Completion.
-__AAAI__, 2024. 
+- Jingjing Wu, Zhengyao Fang, Pengyuan Lyu, Chengquan Zhang, Fanglin Chen, Guangming Lu, __Wenjie Pei__\*.  
+WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting.  
+__ECCV__, 2024.  
 
-- Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)   
+- Shuang Wu, Songlin Tang, Guangming Lu, Jianzhuang Liu, __Wenjie Pei__\*.  
+UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation.  
+__ECCV__, 2024.  
+
+- Yanan Sun, Yanchen Liu, Yinhao Tang, __Wenjie Pei__, Kai Chen.  
+AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation.  
+__ECCV__, 2024.  
+
+- __Wenjie Pei__\#, Tongqi Xia#, Fanglin Chen, Jiandong Tian, Guangming Lu*.  
+Spatially Aligned-and-Adapted Visual Prompting.  
+__AAAI__, 2024.  
+
+- Jingwen Zhang#, Zikun Zhou#, Guangming Lu, Jiandong Tian, __Wenjie Pei__\*.  
+Robust 3D Tracking with Quality-Aware Shape Completion.  
+__AAAI__, 2024.   
+
+- Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)    
 Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection.  
 __ICCV__, 2023.  
 
