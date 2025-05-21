@@ -12,6 +12,8 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 
 ## News
+* 03/2025, two paper was accepted by __CVPR__.
+* 07/2024, three paper was accepted by __ECCV__.
 * 07/2023, one paper was accepted by __ICCV__.
 * 07/2023, three paper was accepted by __ACM MM__.
 * 03/2023, one paper was accepted by __TVCG__.
@@ -58,17 +60,18 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 ## Experience
 - 01/2024 - present, __Harbin Institute of Technology, Shenzhen__.  
-  Professor.  
+  __Professor__.  
 - 01/2022 - 12/2023, __Harbin Institute of Technology, Shenzhen__.  
-  Associate Professor.  
+  __Associate Professor__.  
 - 01/2020 - 12/2021, __Harbin Institute of Technology, Shenzhen__.  
-  Assistant Professor.  
+  __Assistant Professor__.  
 - 07/2018 - 12/2019, __Tencent Youtu X-Lab__.  
-  Senior Researcher.  
+  __Senior Researcher__.  
 - 07/2016 - 12/2016, __Carnegie Mellon University__.  
-  Visiting Scholar in Language Technolgy Institute (LTI).  
+  __Visiting Scholar__ in Language Technolgy Institute (LTI).  
   Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
-- 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
+- 03/2013 - 08/2013, __Philips Research Eindhoven__.  
+  __Intern__. 
 
 ## Research Interest
 - Few-shot Learning
