@@ -4,7 +4,7 @@
 Wenjie Pei is a Professor with the Harbin Institute of Technology, Shenzhen, China.
 <br />   
 He got his Ph.D. at Pattern Recognition and Computer Vision Lab, Delft University of Technology and worked with [Prof. David Tax (TU Delft)](https://scholar.google.com/citations?user=Q9U33SsAAAAJ) and [Dr. Laurens van der Maaten (Facebook AI Research)](https://lvdmaaten.github.io/). Before joining Harbin Institute of Technology, he was a Senior Researcher on Computer Vision at Tencent Youtu X-Lab. In 2016, he was a visiting scholar with the Carnegie Mellon University (__CMU__). His research
-interests lie in Computer Vision and Pattern Recognition including sequence modeling, deep learning, image synthesis, few-shot learning, etc.  Download my [CV](https://github.com/wenjiepei/wenjiepei.github.com/blob/master/resume20250521.pdf) for more information.
+interests lie in Computer Vision and Pattern Recognition including sequence modeling, deep learning, image synthesis, few-shot learning, etc.  Download my [\[CV\]](https://wenjiepei.github.io/resume20250521.pdf) for more information.
 
 <!---Check [my school homepage](https://faculty.hitsz.edu.cn/peiwenjie) for more  information. --->
 
