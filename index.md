@@ -90,7 +90,7 @@ __Wenjie Pei__.
 Delft University of Technology, 2018.  
 
 ------------------------------------------------------------------------------------------------------------------------------ 
-\* denotes corresponding author while \# indicates equal contribution.
+\* denotes corresponding author while <sup>#</sup> indicates equal contribution.
 
 - Zhengyao Fang, Pengyuan Lv, Jingjing Wu, Chengquan Zhang, Jun Yu, __Wenjie Pei__\*.  
 Recognition-Synergistic Scene Text Editing.  
@@ -104,7 +104,7 @@ __CVPR__, 2025.
 Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation.  
 __CVPR__, 2024.
 
-- __Wenjie Pei__\#, Weina Xu#, Zongze Wu, Weichao Li, Jinfan Wang, Guangming Lu, Xiangrong Wang*.
+- __Wenjie Pei__<sup>#</sup>, Weina Xu<sup>#</sup>, Zongze Wu, Weichao Li, Jinfan Wang, Guangming Lu, Xiangrong Wang*.
 Saliency-Aware Regularized Graph Neural Network.  
 Artificial Intelligence (__AIJ__), 2024.  
 
@@ -132,7 +132,7 @@ __ECCV__, 2024.
 AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation.  
 __ECCV__, 2024.  
 
-- __Wenjie Pei__\#, Tongqi Xia#, Fanglin Chen, Jiandong Tian, Guangming Lu*.  
+- __Wenjie Pei__<sup>#</sup>, Tongqi Xia<sup>#</sup>, Fanglin Chen, Jiandong Tian, Guangming Lu*.  
 Spatially Aligned-and-Adapted Visual Prompting.  
 __AAAI__, 2024.  
 
