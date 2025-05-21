@@ -100,7 +100,7 @@ __CVPR__, 2025.
 Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation.  
 __CVPR__, 2024.
 
-- __Wenjie Pei__<sup>#</sup>, Weina Xu<sup>#</sup>, Zongze Wu, Weichao Li, Jinfan Wang, Guangming Lu, Xiangrong Wang*.
+- __Wenjie Pei__<sup>#</sup>, Weina Xu<sup>#</sup>, Zongze Wu, Weichao Li, Jinfan Wang, Guangming Lu, Xiangrong Wang*.  
 Saliency-Aware Regularized Graph Neural Network.  
 Artificial Intelligence (__AIJ__), 2024.  
 
@@ -108,8 +108,8 @@ Artificial Intelligence (__AIJ__), 2024.
 Unified Conditional Image Generation for Visible-Infrared Person Re-Identification.  
 IEEE Transactions on Information Forensics and Security (__TIFS__), 2024.  
 
-- Zikun Zhou, Kaige Mao, __Wenjie Pei__, Hongpeng Wang, Yaowei Wang, Zhenyu He. 
-Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation.   
+- Zikun Zhou, Kaige Mao, __Wenjie Pei__, Hongpeng Wang, Yaowei Wang, Zhenyu He.  
+Reliability-Hierarchical Memory Network for Scribble-Supervised Video Object Segmentation.    
 IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2024.  
 
 - Jing Xu, Xinglin Pan, Jingquan Wang, __Wenjie Pei__, Qing Liao, Zenglin Xu.  
