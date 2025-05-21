@@ -90,29 +90,231 @@ Delft University of Technology, 2018.
 - Xin Feng, Yifeng Xu, Guangming Lu*, __Wenjie Pei__\*. (\*corresponding authors.)   
 Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection.  
 __ICCV__, 2023.  
-&nbsp;
-
-
 
 - Songlin Tang, __Wenjie Pei__\*, Xin Tao, Tanghui Jia, Guangming Lu, Yu-Wing Tai. (\*corresponding author.)   
 Scene-generalizable Interactive Segmentation of Radiance Fields.  
 __ACM MM__, 2023.  
-&nbsp;
-
-
 
 - Zhenhua Ning, Zhuotao Tian, Guangming Lu, __Wenjie Pei__\*. (\*corresponding author.)   
 Boosting Few-shot 3D point cloud segmentation via query-guided enhancement.  
 __ACM MM__, 2023.  
-&nbsp;
-
-
 
 - Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, __Wenjie Pei__\*. (\*corresponding author.)   
 Feature Decoupling-Recycling Network for Fast Interactive Segmentation.  
 __ACM MM__, 2023.  
+
+- Jing Li, Di Kang, __Wenjie Pei__, Xuefei Zhe, Ying Zhang, Linchao Bao, Zhenyu He.  
+Audio2Gestures: Generating Diverse Gesturesfrom Audio.  
+__TVCG__, 2023 (extended from ICCV 2021).  
+
+- Jing Xu, Xu Luo, Xinglin Pan, __Wenjie Pei__, Yanan Li and Zenglin, Xu.  
+Alleviating the Sampling Bias of Few Shot Data by Removing Projection to the Centroid.  
+__NeurIPS__, 2022.  
+
+- __Wenjie Pei__<sup>#</sup>, Xin Feng<sup>#</sup>, Canmiao Fu, Qiong Cao, Guangming Lu and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
+Learning Sequence Representations by Non-local Recurrent Neural Memory.  
+International Journal of Computer Vision (__IJCV__), 2022.  
+
+- Xin Li<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, _Zikun Zhou, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang. (<sup>#</sup>both authors contributed equally)  
+Self-Supervised Tracking via Target-Aware Data Synthesis.  
+__TNNLS__, 2022.  
+
+- Shuang Wu, __Wenjie Pei__\*, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu\*. (\*corresponding authors.)  
+Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection.  
+__ECCV__, 2022.  
+
+- __Wenjie Pei__<sup>#</sup>, Shuang Wu<sup>#</sup>, Dianwen Mei, Fanglin Chen, Jiandong Tian, Guangming Lu. (<sup>#</sup>both authors contributed equally).  
+Few-Shot Object Detection by Knowledge Distillation Using Bag-of-Visual-Words Representations.  
+__ECCV__, 2022.  
+
+- Qi Fan, __Wenjie Pei__\*, Yu-Wing Tai, Chi-Keung Tang. (\*corresponding authors.)  
+Self-Support Few-Shot Semantic Segmentation.  
+__ECCV__, 2022.
+
+- JingJing Wu, Pengyuan Lyu, Guangming Lu, Chengquan Zhang, Kun Yao and __Wenjie Pei__\*. (\*corresponding authors.)  
+Decoupling Recognition from Detection: Single Shot Self-Reliant Scene Text Spotter.  
+__ACM MM__, __Oral__, 2022.  
+
+- <img align="left" width="250" src="publication/fengjun_MM.png">&emsp; Fengjun Li, Xin Feng, Fanglin Chen, Guangming Lu, and __Wenjie Pei__\*. (\*corresponding authors.)  
+&emsp; Learning Generalizable Latent Representations for Novel Degradations in Super-Resolution.  
+&emsp;__ACM MM__, 2022.  
+<br><br><br><br>
+&nbsp;  
+
+------------------------------------------------------------------------------------------------------------------------------
+
+- <img align="left" width="250" src="publication/zebin_tip.png">&emsp; Zebin Lin, __Wenjie Pei__\*, Fanglin Chen, David Zhang and Guangming Lu\*. (\* corresponding author.)  
+&emsp;[Pedestrian Detection by Exemplar-Guided Contrastive Learning]([https://arxiv.org/abs/1908.10535](https://arxiv.org/pdf/2111.08974.pdf)).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2022.  
+<br><br><br><br>
 &nbsp;
 
+---------------------------------------------------------------------------------------------------------------------------- 
+
+- <img align="left" width="250" src="publication/cvpr2022_teaser.png">&emsp;Zikun Zhou, Jianqiu Chen, __Wenjie Pei__\*, Kaige Mao, Hongpeng Wang, Zhenyu He*.(\*corresponding authors).  
+&emsp; Global Tracking via Ensemble of Local Trackers.  
+&emsp; __CVPR__, 2022.  
+<br><br><br><br><br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/acl_image_2022.png">&emsp;Bin Liang, Chenwei Lou, Xiang Li, Min Yang, Lin Gui, Yulan He, __Wenjie Pei__, Ruifeng Xu.  
+&emsp; Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network.  
+&emsp; __ACL__, 2022.  
+<br><br><br><br><br>
+&nbsp;
+
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/model.png">&emsp;Zengwei Yao, __Wenjie Pei__\*, Fanglin Chen, Guangming Lu\*, David Zhang. (\* corresponding authors.)  
+&emsp; Stepwise-Refining Speech Separation Network via Fine-Grained Encoding in High-order Latent Domain.  
+&emsp; IEEE Transactions on Audio, Speech, and Language Processing (__TASLP__), 2021.  
+<br><br><br><br><br>
+&nbsp;
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/SAOT.png">&emsp;Zikun Zhou, __Wenjie Pei__\*, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He\*. (\* corresponding authors.)  
+&emsp;Saliency-Associated Object Tracking.  
+&emsp;__ICCV__, 2021.  
+<br><br><br>
+&nbsp;
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/audio2motion.png">&emsp;Jing Li, Di Kang, __Wenjie Pei__, Xuefei Zhe, Ying Zhang, Zhenyu He, Linchao Bao.  
+&emsp;Audio2Motion: Generating Diverse Human Motion from Audio with Conditional Variational Autoencoders.  
+&emsp;__ICCV__, 2021.  
+<br><br><br><br><br>
+&nbsp;
+
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/DMGN.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
+&emsp;[Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
+<br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------
+
+- <img align="left" width="250" src="publication/TMM.png">&emsp;Kai Yang, Zhenyu He\*, __Wenjie Pei__\*, Zikun Zhou, Xin Li, Di Yuan, Haijun Zhang. (\* corresponding authors.)  
+&emsp;[SiamCorners: Siamese Corner Networks for Visual Tracking](https://arxiv.org/abs/2104.07303).  
+&emsp;IEEE Transactions on Multimedia (__TMM__), 2021.  
+<br><br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------
+
+- <img align="left" width="250" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Guangming Lu and Yu-Wing Tai. (\* corresponding author.)  
+&emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
+<br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------
+
+- <img align="left" width="250" src="publication/SRHEN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> Joint corresponding authors.)  
+&emsp;[SRHEN: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondence in Deep Latent Space](coming soon).  
+&emsp;__ACM MM__, 2020.  
+<br>
+&nbsp;  
+
+------------------------------------------------------------------------------------------------------------------------------ 
+- <img align="left" width="250" src="publication/cpGAN.png">&emsp; Jiadong Liang<sup>#</sup>, __Wenjie Pei__<sup>#</sup> and Feng Lu. (<sup>#</sup> Equal contribution.)  
+&emsp;[CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/pdf/1912.08562.pdf).  
+&emsp;__ECCV__  <span style="color:red">Spotlight</span>, (5% acceptance rate), 2020.  
+&emsp;[\[Code\]](https://github.com/dongdongdong666/CPGAN)
+<br><br><br><br>
+&nbsp;  
+
+------------------------------------------------------------------------------------------------------------------------------ 
+- <img align="left" width="250" src="publication/CommPN.png">&emsp; Qi Fan, Lei Ke, __Wenjie Pei__\*, Chi-Keung Tang and Yu-Wing Tai. (\* Corresponding author.)  
+&emsp;[Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](/publication/CPMask.pdf).  
+&emsp;__ECCV__, 2020.  
+<br><br>
+&nbsp;  
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+- <img align="left" width="250" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
+&emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
+&emsp;IEEE Transactions on Image Processing (__TIP__), 2020.  
+<br>
+
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="250" src="publication/NRNM.png">&emsp;Canmiao Fu<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
+&emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling](https://arxiv.org/abs/1908.09535).  
+&emsp;__ICCV__ <span style="color:red">Oral</span>, (4.3% acceptance rate), 2019.  
+<br><br>
+&nbsp;
+
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="250" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
+&emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
+&emsp;__ICCV__, 2019.  
+<br><br>
+&nbsp;
+
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="250" src="publication/bmvc.png">&emsp;Yunqiang Li<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
+&emsp;equally).  
+&emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206).  
+&emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
+&nbsp;
+
+----------------------------------------------------------------------------------------------------------------------------
+- <img align="left" width="250" src="publication/MARN.png">&emsp;__Wenjie Pei__, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
+&emsp;[Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.pdf).  
+&emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.  
+<br><br>
+&nbsp;
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+- <img align="left" width="250" src="publication/ISA.png">&emsp;__Wenjie Pei__ and David M.J. Tax.  
+&emsp;[Unsupervised Learning of Sequence Representations by Autoencoders](https://arxiv.org/pdf/1804.00946.pdf).  
+&emsp;__arXiv__, 2018.  
+<br><br><br><br>
+&nbsp;
+
+----------------------------------------------------------------------------------------------------------------------------
+
+- <img align="left" width="250" src="publication/IARN2.png">&emsp;__Wenjie Pei__<sup>#</sup>, Jie Yang<sup>#</sup>, Zhu Sun, Jie Zhang, Alessandro Bozzon and David M.J. Tax (<sup>#</sup>both authors contributed equally).  
+&emsp;[Interacting Attention-gated Recurrent Networks for Recommendation](https://arxiv.org/abs/1709.01532).  
+&emsp;ACM International Conference on Information and Knowledge Management (__CIKM__),  
+&emsp;__full__ paper, 2017.  
+&emsp;[\[Code\]](https://github.com/wenjiepei/IARN)
+<br>
+
+------------------------------------------------------------------------------------------------------------------------------
+
+- <img align="left" width="250" src="publication/TAGM.png">&emsp;__Wenjie Pei__, Tadas Baltrušaitis, David M.J. Tax and Louis-Philippe Morency.  
+&emsp;[Temporal Attention-Gated Model for Robust Sequence Classification](https://arxiv.org/pdf/1612.00385.pdf).  
+&emsp;IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2017.  
+&emsp;[\[Code\]](https://github.com/wenjiepei/TAGM) [\[Video\]](/publication/TAGM_final.mp4)
+<br><br><br>
+
+------------------------------------------------------------------------------------------------------------------------------
+- <img align="left" width="250" src="publication/HULM.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioglu, David M. J. Tax and Laurens van der Maaten.  
+&emsp;[Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model](http://ieeexplore.ieee.org/abstract/document/7835652/).  
+&emsp;IEEE Transactions on Neural Networks and Learning Systems (__TNNLS__), 2017.   
+&emsp;[\[Code\]](https://github.com/wenjiepei/HULM)        
+<br><br><br>
+
+------------------------------------------------------------------------------------------------------------------------------
+- <img align="left" width="250" src="publication/SRN.png">&emsp;__Wenjie Pei__, David M.J. Tax and Laurens van der Maaten.  
+&emsp;[Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf).  
+&emsp;__arXiv__, 2016.  
+&emsp;[\[High-resolution (12K * 9K) signatures distribution map clustered by our model\]](/publication/MCYT_full.png)   
+<br>
 
 
 <!---
