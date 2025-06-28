@@ -92,15 +92,15 @@ Delft University of Technology, 2018.
 ------------------------------------------------------------------------------------------------------------------------------ 
 \* denotes corresponding author while <sup>#</sup> indicates equal contribution.
 
-- __Wenjie Pei__<sup>#\*</sup>, Qizhong Tan<sup>#</sup>, et al.
+- __Wenjie Pei__<sup>#</sup>\*, Qizhong Tan<sup>#</sup>, et al.  
 D2ST-Adapter: Disentangled-and-Deformable Spatio-Temporal Adapter for Few-shot Action Recognition.  
 __ICCV__, 2025.
 
-- Yanchen Liu, Yanan Sun, __Wenjie Pei__\*, et al.
+- Yanchen Liu, Yanan Sun, __Wenjie Pei__\*, et al.  
 MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation.  
 __ICCV__, 2025
 
-- Zhenhua Ning, Zhuotao Tian, __Wenjie Pei__\*, et al.
+- Zhenhua Ning, Zhuotao Tian, __Wenjie Pei__\*, et al.  
 Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation.  
 __ICCV__, 2025
 
